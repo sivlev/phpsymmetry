@@ -1,0 +1,8 @@
+/vendor
+/.idea
+composer.lock
+.phpunit.result.cache
+.php-cs-fixer.cache
+/reports
+/docs/*
+!/docs/README.md
