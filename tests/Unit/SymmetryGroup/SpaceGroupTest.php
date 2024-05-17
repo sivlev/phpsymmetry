@@ -108,7 +108,7 @@ class SpaceGroupTest extends TestCase
     {
         $s = SpaceGroup::makeManually($symmetryOperations, []);
         $this->assertEquals($expected, $s->toString());
-        $this->assertEquals($expected, (string)$s);
+        $this->assertEquals($expected, (string) $s);
     }
 
     /**
@@ -466,6 +466,7 @@ class SpaceGroupTest extends TestCase
     #[TestWith(['f -4a 2 3', 'FCN$P2C000$P2B000$P3Q000$I2E666', true])]
     #[TestWith(['-r 3 2"c', 'RRC$I3C000$P2F006', true])]
     #[TestWith(['-i 4bd 2c 3', 'ICC$I3Q000$P4C393$P2D933', true])]
+    #[TestWith(['p 61 2 (0 0 5)', 'PHN$P6C002$P2F000', true])]
     #[TestDox('CompareHallAndExplicit() test checks if a space group created from a Hall symbol is equal to a space group created from an explicit symbol.')]
     public function testCompareHallAndExplicit(string $hallSymbol, string $explicitSymbol, bool $expected): void
     {

@@ -299,6 +299,7 @@ class SpaceGroup extends AbstractSymmetryGroup
      * @param string $string
      * @param bool $generateGroup Whether to generate the full group or not.
      * @return self
+     * @throws InvalidArgumentException if the explicit symbol is invalid.
      */
     public static function makeFromExplicitSymbol(string $string, bool $generateGroup = true): self
     {
@@ -347,7 +348,15 @@ class SpaceGroup extends AbstractSymmetryGroup
     public static function makeFromHallSymbol(string $hallSymbol, bool $generateGroup = true): self
     {
         $hallSymbol = strtoupper(trim($hallSymbol));
-        $parts = explode(" ", $hallSymbol);
+
+        $brackets = explode("(", $hallSymbol);
+        if (count($brackets) === 2) {
+            $parts = explode(" ", rtrim($brackets[0]));
+            $parts[] = "(" . $brackets[1];
+        } else {
+            $parts = explode(" ", $hallSymbol);
+        }
+
         if (count($parts) < 2) {
             throw new InvalidArgumentException("Cannot create a space group. Invalid Hall symbol.");
         }
@@ -367,7 +376,21 @@ class SpaceGroup extends AbstractSymmetryGroup
         $precedingRotationAxis = "";
         $precedingRotationNumber = "";
         foreach ($parts as $index => $part) {
-            //(\((?:-?\d\s?){3}\))?
+            if ($part[0] === "(") {
+                $result = preg_match("/^\((-?\d+)\s+(-?\d+)\s+(-?\d+)\)$/", $part, $matches);
+                if ($result !== 1 || count($matches) !== 4 || $index === 0) {
+                    echo $part;
+                    throw new InvalidArgumentException("Cannot create a space group. Invalid Hall symbol.");
+                }
+                $identity = Matrix::identity(3);
+                $translationLeft = Vector::fromArray([intval($matches[1]) / 12, intval($matches[2]) / 12, intval($matches[3]) / 12]);
+                $translationRight = $translationLeft->changeSign();
+                $operationLeft = SymmetryOperation3D::fromRotationAndTranslation($identity, $translationLeft);
+                $operationRight = SymmetryOperation3D::fromRotationAndTranslation($identity, $translationRight);
+                $symmetryOperations[$index - 1] = $operationLeft->product($symmetryOperations[$index - 1])->product($operationRight);
+                continue;
+            }
+
             $result = preg_match("/^(-?)([1-4|6])([1-5]?)([XYZ*'\"]?)([ABCNUVWD]*)$/", $part, $matches);
             if ($result !== 1) {
                 throw new InvalidArgumentException("Cannot create a space group. Invalid Hall symbol.");
@@ -402,7 +425,7 @@ class SpaceGroup extends AbstractSymmetryGroup
             $translationArray = [
                 "X" => 0,
                 "Y" => 0,
-                "Z" => 0
+                "Z" => 0,
             ];
 
             if ($matches[3] !== "") {
@@ -434,7 +457,7 @@ class SpaceGroup extends AbstractSymmetryGroup
                 }, $translationArray, self::$hallTranslations[$matches[5][$i]]);
             }
 
-            $translationVector = Vector::fromArray(array_map(fn ($value) => Support::reduceNumberPositive($value), array_values($translationArray)));
+            $translationVector = Vector::fromArray(array_map(fn($value) => Support::reduceNumberPositive($value), array_values($translationArray)));
 
             $symmetryOperations[] = SymmetryOperation3D::fromRotationAndTranslation($rotationMatrix, $translationVector);
 

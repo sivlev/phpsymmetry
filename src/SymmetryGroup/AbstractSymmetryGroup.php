@@ -131,7 +131,7 @@ class AbstractSymmetryGroup
             }
         }
 
-        return new static($symmetryOperations, self::$primaryTranslationsArray, $centeringTranslations);
+        return new static($symmetryOperations, static::$primaryTranslationsArray, $centeringTranslations);
     }
 
     /**
