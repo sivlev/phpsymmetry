@@ -2040,7 +2040,7 @@
         "full_hermann_mauguin": "P 63 m c",
         "hall": "p 6c -2c",
         "crystal_class": "6mm",
-        "explicit": "PHN$P6C006$I2F006",
+        "explicit": "PHN$P6C006$I2F000",
         "generators": "PHN$P3C000$P2C006$I2I000",
         "itc_group": true
     },
