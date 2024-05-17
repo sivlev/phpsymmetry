@@ -25,20 +25,31 @@ use PHPSymmetry\SymmetryOperation\AbstractSymmetryOperation;
 class Support
 {
     /**
+     * Tolerance for floating point comparisons.
+     */
+    protected const e = 1e-8;
+
+    /**
      * Reduce a number so that it is between [0 and 1).
      *
      * @param int|float $number
+     * @param float $tolerance
      * @return int|float
      */
-    public static function reduceNumberPositive(int|float $number): int|float
+    public static function reduceNumberPositive(int|float $number, float $tolerance = self::e): int|float
     {
+        $sign = Math::sign($number);
+        if ((int) $number !== (int) ($number + $sign * $tolerance)) {
+            $number = (int) $number + $sign * $tolerance;
+        }
+
         if ($number >= 1) {
-            $number -= (int)$number;
+            $number -= (int) $number;
         } elseif ($number < 0) {
-            if (Math::areEqual($number, (int)$number)) {
+            if (Math::areEqual($number, (int) $number)) {
                 $number = 0;
             } else {
-                $number -= (int)$number - 1;
+                $number -= (int) $number - 1;
             }
         }
         return $number;
@@ -48,15 +59,20 @@ class Support
      * Reduce a number so that it is between (0 and 1).
      *
      * @param int|float $number
+     * @param float $tolerance
      * @return int|float
      */
-    public static function reduceNumber(int|float $number): int|float
+    public static function reduceNumber(int|float $number, float $tolerance = self::e): int|float
     {
-        if ($number >= 1) {
-            $number -= (int)$number;
-        } elseif ($number <= -1) {
+        $sign = Math::sign($number);
+        if ((int) $number !== (int) ($number + $sign * $tolerance)) {
+            $number = (int) $number + $sign * $tolerance;
+        }
 
-            $number -= (int)$number;
+        if ($number >= 1) {
+            $number -= (int) $number;
+        } elseif ($number <= -1) {
+            $number -= (int) $number;
         }
 
         return $number;

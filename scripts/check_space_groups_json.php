@@ -26,6 +26,7 @@ foreach ($spacegroups as $s) {
     echo 'Generating the space group from the Hall symbol: ' . $s['hall'] . '... ';
     $sHall = SpaceGroup::makeFromHallSymbol($s['hall'])->expandGroup();
     echo 'done.' . PHP_EOL;
+    echo $sHall . PHP_EOL;
     //foreach ($sHall->symmetryOperations() as $i => $op) {
     //    echo '  ' . ($i + 1) . '. ' . $op->toSymbol() . PHP_EOL;
     //}
@@ -33,11 +34,12 @@ foreach ($spacegroups as $s) {
     echo 'Generating the space group from the explicit symbol: ' . $s['explicit'] . '... ';
     $sExplicit = SpaceGroup::makeFromExplicitSymbol($s['explicit'])->expandGroup();
     echo 'done.' . PHP_EOL;
-    //echo $sExplicit;
+    echo $sExplicit . PHP_EOL;
 
     echo 'Generating the space group from the generators: ' . $s['generators'] . '... ';
     $sGenerators = SpaceGroup::makeFromExplicitSymbol($s['generators'])->expandGroup();
     echo 'done.' . PHP_EOL;
+    echo $sGenerators . PHP_EOL;
 
     echo 'Comparing the space group operations from the Hall symbol and from the explicit symbol... ';
     if (!$sHall->isEqual($sExplicit)) {
