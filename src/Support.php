@@ -40,7 +40,7 @@ class Support
     {
         $sign = Math::sign($number);
         if ((int) $number !== (int) ($number + $sign * $tolerance)) {
-            $number = (int) $number + $sign * $tolerance;
+            $number = (int) ($number + $sign * $tolerance);
         }
 
         if ($number >= 1) {
@@ -66,7 +66,7 @@ class Support
     {
         $sign = Math::sign($number);
         if ((int) $number !== (int) ($number + $sign * $tolerance)) {
-            $number = (int) $number + $sign * $tolerance;
+            $number = (int) ($number + $sign * $tolerance);
         }
 
         if ($number >= 1) {
