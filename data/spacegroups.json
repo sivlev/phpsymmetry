@@ -2205,7 +2205,7 @@
         "full_hermann_mauguin": "P 2/n -3",
         "hall": "-p 2ab 2bc 3",
         "crystal_class": "m-3",
-        "explicit": "PCC$I3Q666$P2C000$P2A000",
+        "explicit": "PCC$I3Q000$P2C660$P2A066",
         "generators": "PCC$P2C660$P2B606$P3Q000$I1A000",
         "itc_group": true
     },
