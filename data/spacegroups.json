@@ -6,8 +6,8 @@
         "full_hermann_mauguin": "P 1",
         "hall": "p 1",
         "crystal_class": "1",
-        "symmetry_explicit": "PAN$P1A000",
-        "symmetry_generators": "PAN",
+        "explicit": "PAN$P1A000",
+        "generators": "PAN$P1A000",
         "itc_group": true
     },
     {
@@ -17,8 +17,8 @@
         "full_hermann_mauguin": "P -1",
         "hall": "-p 1",
         "crystal_class": "-1",
-        "symmetry_explicit": "PAC$I1A000",
-        "symmetry_generators": "PAC$I1A000",
+        "explicit": "PAC$I1A000",
+        "generators": "PAC$I1A000",
         "itc_group": true
     },
     {
@@ -28,8 +28,8 @@
         "full_hermann_mauguin": "P 1 2 1",
         "hall": "p 2y",
         "crystal_class": "2",
-        "symmetry_explicit": "PMN$P2B000",
-        "symmetry_generators": "PMN$P2B000",
+        "explicit": "PMN$P2B000",
+        "generators": "PMN$P2B000",
         "itc_group": true
     },
     {
@@ -39,8 +39,8 @@
         "full_hermann_mauguin": "P 1 21 1",
         "hall": "p 2yb",
         "crystal_class": "2",
-        "symmetry_explicit": "PMN$P2B060",
-        "symmetry_generators": "PMN$P2B060",
+        "explicit": "PMN$P2B060",
+        "generators": "PMN$P2B060",
         "itc_group": true
     },
     {
@@ -50,8 +50,8 @@
         "full_hermann_mauguin": "C 1 2 1",
         "hall": "c 2y",
         "crystal_class": "2",
-        "symmetry_explicit": "CMN$P2B000",
-        "symmetry_generators": "CMN$P2B000",
+        "explicit": "CMN$P2B000",
+        "generators": "CMN$P2B000",
         "itc_group": true
     },
     {
@@ -61,8 +61,8 @@
         "full_hermann_mauguin": "P 1 m 1",
         "hall": "p -2y",
         "crystal_class": "m",
-        "symmetry_explicit": "PMN$I2B000",
-        "symmetry_generators": "PMN$I2B000",
+        "explicit": "PMN$I2B000",
+        "generators": "PMN$I2B000",
         "itc_group": true
     },
     {
@@ -72,8 +72,8 @@
         "full_hermann_mauguin": "P 1 c 1",
         "hall": "p -2yc",
         "crystal_class": "m",
-        "symmetry_explicit": "PMN$I2B006",
-        "symmetry_generators": "PMN$I2B006",
+        "explicit": "PMN$I2B006",
+        "generators": "PMN$I2B006",
         "itc_group": true
     },
     {
@@ -83,8 +83,8 @@
         "full_hermann_mauguin": "C 1 m 1",
         "hall": "c -2y",
         "crystal_class": "m",
-        "symmetry_explicit": "CMN$I2B000",
-        "symmetry_generators": "CMN$I2B000",
+        "explicit": "CMN$I2B000",
+        "generators": "CMN$I2B000",
         "itc_group": true
     },
     {
@@ -94,8 +94,8 @@
         "full_hermann_mauguin": "C 1 c 1",
         "hall": "c -2yc",
         "crystal_class": "m",
-        "symmetry_explicit": "CMN$I2B006",
-        "symmetry_generators": "CMN$I2B006",
+        "explicit": "CMN$I2B006",
+        "generators": "CMN$I2B006",
         "itc_group": true
     },
     {
@@ -105,8 +105,8 @@
         "full_hermann_mauguin": "P 1 2/m 1",
         "hall": "-p 2y",
         "crystal_class": "2/m",
-        "symmetry_explicit": "PMC$I1A000$P2B000",
-        "symmetry_generators": "PMC$P2B000$I1A000",
+        "explicit": "PMC$I1A000$P2B000",
+        "generators": "PMC$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -116,8 +116,8 @@
         "full_hermann_mauguin": "P 1 21/m 1",
         "hall": "-p 2yb",
         "crystal_class": "2/m",
-        "symmetry_explicit": "PMC$I1A000$P2B060",
-        "symmetry_generators": "PMC$P2B060$I1A000",
+        "explicit": "PMC$I1A000$P2B060",
+        "generators": "PMC$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -127,8 +127,8 @@
         "full_hermann_mauguin": "C 1 2/m 1",
         "hall": "-c 2y",
         "crystal_class": "2/m",
-        "symmetry_explicit": "CMC$I1A000$P2B000",
-        "symmetry_generators": "CMC$P2B000$I1A000",
+        "explicit": "CMC$I1A000$P2B000",
+        "generators": "CMC$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -138,8 +138,8 @@
         "full_hermann_mauguin": "P 1 2/c 1",
         "hall": "-p 2yc",
         "crystal_class": "2/m",
-        "symmetry_explicit": "PMC$I1A000$P2B006",
-        "symmetry_generators": "PMC$P2B006$I1A000",
+        "explicit": "PMC$I1A000$P2B006",
+        "generators": "PMC$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -149,8 +149,8 @@
         "full_hermann_mauguin": "P 1 21/c 1",
         "hall": "-p 2ybc",
         "crystal_class": "2/m",
-        "symmetry_explicit": "PMC$I1A000$P2B066",
-        "symmetry_generators": "PMC$P2B066$I1A000",
+        "explicit": "PMC$I1A000$P2B066",
+        "generators": "PMC$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -160,8 +160,8 @@
         "full_hermann_mauguin": "C 1 2/c 1",
         "hall": "-c 2yc",
         "crystal_class": "2/m",
-        "symmetry_explicit": "CMC$I1A000$P2B006",
-        "symmetry_generators": "CMC$P2B006$I1A000",
+        "explicit": "CMC$I1A000$P2B006",
+        "generators": "CMC$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -171,8 +171,8 @@
         "full_hermann_mauguin": "P 2 2 2",
         "hall": "p 2 2",
         "crystal_class": "222",
-        "symmetry_explicit": "PON$P2C000$P2A000",
-        "symmetry_generators": "PON$P2C000$P2B000",
+        "explicit": "PON$P2C000$P2A000",
+        "generators": "PON$P2C000$P2B000",
         "itc_group": true
     },
     {
@@ -182,8 +182,8 @@
         "full_hermann_mauguin": "P 2 2 21",
         "hall": "p 2c 2",
         "crystal_class": "222",
-        "symmetry_explicit": "PON$P2C006$P2A000",
-        "symmetry_generators": "PON$P2C006$P2B006",
+        "explicit": "PON$P2C006$P2A000",
+        "generators": "PON$P2C006$P2B006",
         "itc_group": true
     },
     {
@@ -193,8 +193,8 @@
         "full_hermann_mauguin": "P 21 21 2",
         "hall": "p 2 2ab",
         "crystal_class": "222",
-        "symmetry_explicit": "PON$P2C000$P2A660",
-        "symmetry_generators": "PON$P2C000$P2B660",
+        "explicit": "PON$P2C000$P2A660",
+        "generators": "PON$P2C000$P2B660",
         "itc_group": true
     },
     {
@@ -204,8 +204,8 @@
         "full_hermann_mauguin": "P 21 21 21",
         "hall": "p 2ac 2ab",
         "crystal_class": "222",
-        "symmetry_explicit": "PON$P2C606$P2A660",
-        "symmetry_generators": "PON$P2C606$P2B066",
+        "explicit": "PON$P2C606$P2A660",
+        "generators": "PON$P2C606$P2B066",
         "itc_group": true
     },
     {
@@ -215,8 +215,8 @@
         "full_hermann_mauguin": "C 2 2 21",
         "hall": "c 2c 2",
         "crystal_class": "222",
-        "symmetry_explicit": "CON$P2C006$P2A000",
-        "symmetry_generators": "CON$P2C006$P2B006",
+        "explicit": "CON$P2C006$P2A000",
+        "generators": "CON$P2C006$P2B006",
         "itc_group": true
     },
     {
@@ -226,8 +226,8 @@
         "full_hermann_mauguin": "C 2 2 2",
         "hall": "c 2 2",
         "crystal_class": "222",
-        "symmetry_explicit": "CON$P2C000$P2A000",
-        "symmetry_generators": "CON$P2C000$P2B000",
+        "explicit": "CON$P2C000$P2A000",
+        "generators": "CON$P2C000$P2B000",
         "itc_group": true
     },
     {
@@ -237,8 +237,8 @@
         "full_hermann_mauguin": "F 2 2 2",
         "hall": "f 2 2",
         "crystal_class": "222",
-        "symmetry_explicit": "FON$P2C000$P2A000",
-        "symmetry_generators": "FON$P2C000$P2B000",
+        "explicit": "FON$P2C000$P2A000",
+        "generators": "FON$P2C000$P2B000",
         "itc_group": true
     },
     {
@@ -248,8 +248,8 @@
         "full_hermann_mauguin": "I 2 2 2",
         "hall": "i 2 2",
         "crystal_class": "222",
-        "symmetry_explicit": "ION$P2C000$P2A000",
-        "symmetry_generators": "ION$P2C000$P2B000",
+        "explicit": "ION$P2C000$P2A000",
+        "generators": "ION$P2C000$P2B000",
         "itc_group": true
     },
     {
@@ -259,8 +259,8 @@
         "full_hermann_mauguin": "I 21 21 21",
         "hall": "i 2b 2c",
         "crystal_class": "222",
-        "symmetry_explicit": "ION$P2C606$P2A660",
-        "symmetry_generators": "ION$P2C606$P2B066",
+        "explicit": "ION$P2C606$P2A660",
+        "generators": "ION$P2C606$P2B066",
         "itc_group": true
     },
     {
@@ -270,8 +270,8 @@
         "full_hermann_mauguin": "P m m 2",
         "hall": "p 2 -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A000",
-        "symmetry_generators": "PON$P2C000$I2B000",
+        "explicit": "PON$P2C000$I2A000",
+        "generators": "PON$P2C000$I2B000",
         "itc_group": true
     },
     {
@@ -281,8 +281,8 @@
         "full_hermann_mauguin": "P m c 21",
         "hall": "p 2c -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C006$I2A000",
-        "symmetry_generators": "PON$P2C006$I2B006",
+        "explicit": "PON$P2C006$I2A000",
+        "generators": "PON$P2C006$I2B006",
         "itc_group": true
     },
     {
@@ -292,8 +292,8 @@
         "full_hermann_mauguin": "P c c 2",
         "hall": "p 2 -2c",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A006",
-        "symmetry_generators": "PON$P2C000$I2B006",
+        "explicit": "PON$P2C000$I2A006",
+        "generators": "PON$P2C000$I2B006",
         "itc_group": true
     },
     {
@@ -303,8 +303,8 @@
         "full_hermann_mauguin": "P m a 2",
         "hall": "p 2 -2a",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A600",
-        "symmetry_generators": "PON$P2C000$I2B600",
+        "explicit": "PON$P2C000$I2A600",
+        "generators": "PON$P2C000$I2B600",
         "itc_group": true
     },
     {
@@ -314,8 +314,8 @@
         "full_hermann_mauguin": "P c a 21",
         "hall": "p 2c -2ac",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C006$I2A606",
-        "symmetry_generators": "PON$P2C006$I2B600",
+        "explicit": "PON$P2C006$I2A606",
+        "generators": "PON$P2C006$I2B600",
         "itc_group": true
     },
     {
@@ -325,8 +325,8 @@
         "full_hermann_mauguin": "P n c 2",
         "hall": "p 2 -2bc",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A066",
-        "symmetry_generators": "PON$P2C000$I2B066",
+        "explicit": "PON$P2C000$I2A066",
+        "generators": "PON$P2C000$I2B066",
         "itc_group": true
     },
     {
@@ -336,8 +336,8 @@
         "full_hermann_mauguin": "P m n 21",
         "hall": "p 2ac -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C606$I2A000",
-        "symmetry_generators": "PON$P2C606$I2B606",
+        "explicit": "PON$P2C606$I2A000",
+        "generators": "PON$P2C606$I2B606",
         "itc_group": true
     },
     {
@@ -347,8 +347,8 @@
         "full_hermann_mauguin": "P b a 2",
         "hall": "p 2 -2ab",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A660",
-        "symmetry_generators": "PON$P2C000$I2B660",
+        "explicit": "PON$P2C000$I2A660",
+        "generators": "PON$P2C000$I2B660",
         "itc_group": true
     },
     {
@@ -358,8 +358,8 @@
         "full_hermann_mauguin": "P n a 21",
         "hall": "p 2c -2n",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C006$I2A666",
-        "symmetry_generators": "PON$P2C006$I2B660",
+        "explicit": "PON$P2C006$I2A666",
+        "generators": "PON$P2C006$I2B660",
         "itc_group": true
     },
     {
@@ -369,8 +369,8 @@
         "full_hermann_mauguin": "P n n 2",
         "hall": "p 2 -2n",
         "crystal_class": "mm2",
-        "symmetry_explicit": "PON$P2C000$I2A666",
-        "symmetry_generators": "PON$P2C000$I2B666",
+        "explicit": "PON$P2C000$I2A666",
+        "generators": "PON$P2C000$I2B666",
         "itc_group": true
     },
     {
@@ -380,8 +380,8 @@
         "full_hermann_mauguin": "C m m 2",
         "hall": "c 2 -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "CON$P2C000$I2A000",
-        "symmetry_generators": "CON$P2C000$I2B000",
+        "explicit": "CON$P2C000$I2A000",
+        "generators": "CON$P2C000$I2B000",
         "itc_group": true
     },
     {
@@ -391,8 +391,8 @@
         "full_hermann_mauguin": "C m c 21",
         "hall": "c 2c -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "CON$P2C006$I2A000",
-        "symmetry_generators": "CON$P2C006$I2B006",
+        "explicit": "CON$P2C006$I2A000",
+        "generators": "CON$P2C006$I2B006",
         "itc_group": true
     },
     {
@@ -402,8 +402,8 @@
         "full_hermann_mauguin": "C c c 2",
         "hall": "c 2 -2c",
         "crystal_class": "mm2",
-        "symmetry_explicit": "CON$P2C000$I2A006",
-        "symmetry_generators": "CON$P2C000$I2B006",
+        "explicit": "CON$P2C000$I2A006",
+        "generators": "CON$P2C000$I2B006",
         "itc_group": true
     },
     {
@@ -413,8 +413,8 @@
         "full_hermann_mauguin": "A m m 2",
         "hall": "a 2 -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "AON$P2C000$I2A000",
-        "symmetry_generators": "AON$P2C000$I2B000",
+        "explicit": "AON$P2C000$I2A000",
+        "generators": "AON$P2C000$I2B000",
         "itc_group": true
     },
     {
@@ -424,8 +424,8 @@
         "full_hermann_mauguin": "A e m 2",
         "hall": "a 2 -2b",
         "crystal_class": "mm2",
-        "symmetry_explicit": "AON$P2C000$I2A060",
-        "symmetry_generators": "AON$P2C000$I2B060",
+        "explicit": "AON$P2C000$I2A060",
+        "generators": "AON$P2C000$I2B060",
         "itc_group": true
     },
     {
@@ -435,8 +435,8 @@
         "full_hermann_mauguin": "A m a 2",
         "hall": "a 2 -2a",
         "crystal_class": "mm2",
-        "symmetry_explicit": "AON$P2C000$I2A600",
-        "symmetry_generators": "AON$P2C000$I2B600",
+        "explicit": "AON$P2C000$I2A600",
+        "generators": "AON$P2C000$I2B600",
         "itc_group": true
     },
     {
@@ -446,8 +446,8 @@
         "full_hermann_mauguin": "A e a 2",
         "hall": "a 2 -2ab",
         "crystal_class": "mm2",
-        "symmetry_explicit": "AON$P2C000$I2A660",
-        "symmetry_generators": "AON$P2C000$I2B660",
+        "explicit": "AON$P2C000$I2A660",
+        "generators": "AON$P2C000$I2B660",
         "itc_group": true
     },
     {
@@ -457,8 +457,8 @@
         "full_hermann_mauguin": "F m m 2",
         "hall": "f 2 -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "FON$P2C000$I2A000",
-        "symmetry_generators": "FON$P2C000$I2B000",
+        "explicit": "FON$P2C000$I2A000",
+        "generators": "FON$P2C000$I2B000",
         "itc_group": true
     },
     {
@@ -468,8 +468,8 @@
         "full_hermann_mauguin": "F d d 2",
         "hall": "f 2 -2d",
         "crystal_class": "mm2",
-        "symmetry_explicit": "FON$P2C000$I2A333",
-        "symmetry_generators": "FON$P2C000$I2B333",
+        "explicit": "FON$P2C000$I2A333",
+        "generators": "FON$P2C000$I2B333",
         "itc_group": true
     },
     {
@@ -479,8 +479,8 @@
         "full_hermann_mauguin": "I m m 2",
         "hall": "i 2 -2",
         "crystal_class": "mm2",
-        "symmetry_explicit": "ION$P2C000$I2A000",
-        "symmetry_generators": "ION$P2C000$I2B000",
+        "explicit": "ION$P2C000$I2A000",
+        "generators": "ION$P2C000$I2B000",
         "itc_group": true
     },
     {
@@ -490,8 +490,8 @@
         "full_hermann_mauguin": "I b a 2",
         "hall": "i 2 -2c",
         "crystal_class": "mm2",
-        "symmetry_explicit": "ION$P2C000$I2A660",
-        "symmetry_generators": "ION$P2C000$I2B660",
+        "explicit": "ION$P2C000$I2A660",
+        "generators": "ION$P2C000$I2B660",
         "itc_group": true
     },
     {
@@ -501,8 +501,8 @@
         "full_hermann_mauguin": "I m a 2",
         "hall": "i 2 -2a",
         "crystal_class": "mm2",
-        "symmetry_explicit": "ION$P2C000$I2A600",
-        "symmetry_generators": "ION$P2C000$I2B600",
+        "explicit": "ION$P2C000$I2A600",
+        "generators": "ION$P2C000$I2B600",
         "itc_group": true
     },
     {
@@ -512,8 +512,8 @@
         "full_hermann_mauguin": "P 2/m 2/m 2/m",
         "hall": "-p 2 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C000$P2A000",
-        "symmetry_generators": "POC$P2C000$P2B000$I1A000",
+        "explicit": "POC$I1A000$P2C000$P2A000",
+        "generators": "POC$P2C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -523,8 +523,8 @@
         "full_hermann_mauguin": "P 2/n 2/n 2/n",
         "hall": "-p 2ab 2bc",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C660$P2A066",
-        "symmetry_generators": "POC$P2C660$P2B606$I1A000",
+        "explicit": "POC$I1A000$P2C660$P2A066",
+        "generators": "POC$P2C660$P2B606$I1A000",
         "itc_group": true
     },
     {
@@ -534,8 +534,8 @@
         "full_hermann_mauguin": "P 2/c 2/c 2/m",
         "hall": "-p 2 2c",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C000$P2A006",
-        "symmetry_generators": "POC$P2C000$P2B006$I1A000",
+        "explicit": "POC$I1A000$P2C000$P2A006",
+        "generators": "POC$P2C000$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -545,8 +545,8 @@
         "full_hermann_mauguin": "P 2/b 2/a 2/n",
         "hall": "-p 2ab 2b",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C660$P2A060",
-        "symmetry_generators": "POC$P2C660$P2B600$I1A000",
+        "explicit": "POC$I1A000$P2C660$P2A060",
+        "generators": "POC$P2C660$P2B600$I1A000",
         "itc_group": true
     },
     {
@@ -556,8 +556,8 @@
         "full_hermann_mauguin": "P 21/m 2/m 2/a",
         "hall": "-p 2a 2a",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C600$P2A600",
-        "symmetry_generators": "POC$P2C600$P2B000$I1A000",
+        "explicit": "POC$I1A000$P2C600$P2A600",
+        "generators": "POC$P2C600$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -567,8 +567,8 @@
         "full_hermann_mauguin": "P 2/n 21/n 2/a",
         "hall": "-p 2a 2bc",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C600$P2A066",
-        "symmetry_generators": "POC$P2C600$P2B666$I1A000",
+        "explicit": "POC$I1A000$P2C600$P2A066",
+        "generators": "POC$P2C600$P2B666$I1A000",
         "itc_group": true
     },
     {
@@ -578,8 +578,8 @@
         "full_hermann_mauguin": "P 2/m 2/n 21/a",
         "hall": "-p 2ac 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C606$P2A000",
-        "symmetry_generators": "POC$P2C606$P2B606$I1A000",
+        "explicit": "POC$I1A000$P2C606$P2A000",
+        "generators": "POC$P2C606$P2B606$I1A000",
         "itc_group": true
     },
     {
@@ -589,8 +589,8 @@
         "full_hermann_mauguin": "P 21/c 2/c 2/a",
         "hall": "-p 2a 2ac",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C600$P2A606",
-        "symmetry_generators": "POC$P2C600$P2B006$I1A000",
+        "explicit": "POC$I1A000$P2C600$P2A606",
+        "generators": "POC$P2C600$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -600,8 +600,8 @@
         "full_hermann_mauguin": "P 21/b 21/a 2/m",
         "hall": "-p 2 2ab",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C000$P2A660",
-        "symmetry_generators": "POC$P2C000$P2B660$I1A000",
+        "explicit": "POC$I1A000$P2C000$P2A660",
+        "generators": "POC$P2C000$P2B660$I1A000",
         "itc_group": true
     },
     {
@@ -611,8 +611,8 @@
         "full_hermann_mauguin": "P 21/c 21/c 2/n",
         "hall": "-p 2ab 2ac",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C660$P2A606",
-        "symmetry_generators": "POC$P2C660$P2B066$I1A000",
+        "explicit": "POC$I1A000$P2C660$P2A606",
+        "generators": "POC$P2C660$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -622,8 +622,8 @@
         "full_hermann_mauguin": "P 2/b 21/c 21/m",
         "hall": "-p 2c 2b",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C006$P2A060",
-        "symmetry_generators": "POC$P2C006$P2B066$I1A000",
+        "explicit": "POC$I1A000$P2C006$P2A060",
+        "generators": "POC$P2C006$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -633,8 +633,8 @@
         "full_hermann_mauguin": "P 21/n 21/n 2/m",
         "hall": "-p 2 2n",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C000$P2A666",
-        "symmetry_generators": "POC$P2C000$P2B666$I1A000",
+        "explicit": "POC$I1A000$P2C000$P2A666",
+        "generators": "POC$P2C000$P2B666$I1A000",
         "itc_group": true
     },
     {
@@ -644,8 +644,8 @@
         "full_hermann_mauguin": "P 21/m 21/m 2/n",
         "hall": "-p 2ab 2a",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C660$P2A600",
-        "symmetry_generators": "POC$P2C660$P2B060$I1A000",
+        "explicit": "POC$I1A000$P2C660$P2A600",
+        "generators": "POC$P2C660$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -655,8 +655,8 @@
         "full_hermann_mauguin": "P 21/b 2/c 21/n",
         "hall": "-p 2n 2ab",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C666$P2A660",
-        "symmetry_generators": "POC$P2C666$P2B006$I1A000",
+        "explicit": "POC$I1A000$P2C666$P2A660",
+        "generators": "POC$P2C666$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -666,8 +666,8 @@
         "full_hermann_mauguin": "P 21/b 21/c 21/a",
         "hall": "-p 2ac 2ab",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C606$P2A660",
-        "symmetry_generators": "POC$P2C606$P2B066$I1A000",
+        "explicit": "POC$I1A000$P2C606$P2A660",
+        "generators": "POC$P2C606$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -677,8 +677,8 @@
         "full_hermann_mauguin": "P 21/n 21/m 21/a",
         "hall": "-p 2ac 2n",
         "crystal_class": "mmm",
-        "symmetry_explicit": "POC$I1A000$P2C606$P2A666",
-        "symmetry_generators": "POC$P2C606$P2B060$I1A000",
+        "explicit": "POC$I1A000$P2C606$P2A666",
+        "generators": "POC$P2C606$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -688,8 +688,8 @@
         "full_hermann_mauguin": "C 2/m 2/c 21/m",
         "hall": "-c 2c 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C006$P2A000",
-        "symmetry_generators": "COC$P2C006$P2B006$I1A000",
+        "explicit": "COC$I1A000$P2C006$P2A000",
+        "generators": "COC$P2C006$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -697,10 +697,10 @@
         "slug": "cmce",
         "hermann_mauguin": "C m c e",
         "full_hermann_mauguin": "C 2/m 2/c 21/e",
-        "hall": "-c 2ac 2",
+        "hall": "-c 2bc 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C066$P2A000",
-        "symmetry_generators": "COC$P2C066$P2B066$I1A000",
+        "explicit": "COC$I1A000$P2C066$P2A000",
+        "generators": "COC$P2C066$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -710,8 +710,8 @@
         "full_hermann_mauguin": "C 2/m 2/m 2/m",
         "hall": "-c 2 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C000$P2A000",
-        "symmetry_generators": "COC$P2C000$P2B000$I1A000",
+        "explicit": "COC$I1A000$P2C000$P2A000",
+        "generators": "COC$P2C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -721,8 +721,8 @@
         "full_hermann_mauguin": "C 2/c 2/c 2/m",
         "hall": "-c 2 2c",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C000$P2A006",
-        "symmetry_generators": "COC$P2C000$P2B006$I1A000",
+        "explicit": "COC$I1A000$P2C000$P2A006",
+        "generators": "COC$P2C000$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -730,10 +730,10 @@
         "slug": "cmme",
         "hermann_mauguin": "C m m e",
         "full_hermann_mauguin": "C 2/m 2/m 2/e",
-        "hall": "-c 2a 2",
+        "hall": "-c 2b 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C060$P2A000",
-        "symmetry_generators": "COC$P2C060$P2B060$I1A000",
+        "explicit": "COC$I1A000$P2C060$P2A000",
+        "generators": "COC$P2C060$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -743,8 +743,8 @@
         "full_hermann_mauguin": "C 2/c 2/c 2/e",
         "hall": "-c 2a 2ac",
         "crystal_class": "mmm",
-        "symmetry_explicit": "COC$I1A000$P2C600$P2A606",
-        "symmetry_generators": "COC$P2C600$P2B006$I1A000",
+        "explicit": "COC$I1A000$P2C600$P2A606",
+        "generators": "COC$P2C600$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -754,8 +754,8 @@
         "full_hermann_mauguin": "F 2/m 2/m 2/m",
         "hall": "-f 2 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "FOC$I1A000$P2C000$P2A000",
-        "symmetry_generators": "FOC$P2C000$P2B000$I1A000",
+        "explicit": "FOC$I1A000$P2C000$P2A000",
+        "generators": "FOC$P2C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -765,8 +765,8 @@
         "full_hermann_mauguin": "F 2/d 2/d 2/d",
         "hall": "-f 2uv 2vw",
         "crystal_class": "mmm",
-        "symmetry_explicit": "FOC$I1A000$P2C990$P2A099",
-        "symmetry_generators": "FOC$P2C990$P2B909$I1A000",
+        "explicit": "FOC$I1A000$P2C990$P2A099",
+        "generators": "FOC$P2C990$P2B909$I1A000",
         "itc_group": true
     },
     {
@@ -776,8 +776,8 @@
         "full_hermann_mauguin": "I 2/m 2/m 2/m",
         "hall": "-i 2 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "IOC$I1A000$P2C000$P2A000",
-        "symmetry_generators": "IOC$P2C000$P2B000$I1A000",
+        "explicit": "IOC$I1A000$P2C000$P2A000",
+        "generators": "IOC$P2C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -787,8 +787,8 @@
         "full_hermann_mauguin": "I 2/b 2/a 2/m",
         "hall": "-i 2 2c",
         "crystal_class": "mmm",
-        "symmetry_explicit": "IOC$I1A000$P2C000$P2A660",
-        "symmetry_generators": "IOC$P2C000$P2B660$I1A000",
+        "explicit": "IOC$I1A000$P2C000$P2A660",
+        "generators": "IOC$P2C000$P2B660$I1A000",
         "itc_group": true
     },
     {
@@ -798,8 +798,8 @@
         "full_hermann_mauguin": "I 21/b 21/c 21/a",
         "hall": "-i 2b 2c",
         "crystal_class": "mmm",
-        "symmetry_explicit": "IOC$I1A000$P2C606$P2A660",
-        "symmetry_generators": "IOC$P2C606$P2B066$I1A000",
+        "explicit": "IOC$I1A000$P2C606$P2A660",
+        "generators": "IOC$P2C606$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -809,8 +809,8 @@
         "full_hermann_mauguin": "I 21/m 21/m 21/a",
         "hall": "-i 2b 2",
         "crystal_class": "mmm",
-        "symmetry_explicit": "IOC$I1A000$P2C060$P2A000",
-        "symmetry_generators": "IOC$P2C060$P2B060$I1A000",
+        "explicit": "IOC$I1A000$P2C060$P2A000",
+        "generators": "IOC$P2C060$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -820,8 +820,8 @@
         "full_hermann_mauguin": "P 4",
         "hall": "p 4",
         "crystal_class": "4",
-        "symmetry_explicit": "PTN$P4C000",
-        "symmetry_generators": "PTN$P2C000$P4C000",
+        "explicit": "PTN$P4C000",
+        "generators": "PTN$P2C000$P4C000",
         "itc_group": true
     },
     {
@@ -831,8 +831,8 @@
         "full_hermann_mauguin": "P 41",
         "hall": "p 4w",
         "crystal_class": "4",
-        "symmetry_explicit": "PTN$P4C003",
-        "symmetry_generators": "PTN$P2C006$P4C003",
+        "explicit": "PTN$P4C003",
+        "generators": "PTN$P2C006$P4C003",
         "itc_group": true
     },
     {
@@ -842,8 +842,8 @@
         "full_hermann_mauguin": "P 42",
         "hall": "p 4c",
         "crystal_class": "4",
-        "symmetry_explicit": "PTN$P4C006",
-        "symmetry_generators": "PTN$P2C000$P4C006",
+        "explicit": "PTN$P4C006",
+        "generators": "PTN$P2C000$P4C006",
         "itc_group": true
     },
     {
@@ -853,8 +853,8 @@
         "full_hermann_mauguin": "P 43",
         "hall": "p 4cw",
         "crystal_class": "4",
-        "symmetry_explicit": "PTN$P4C009",
-        "symmetry_generators": "PTN$P2C006$P4C009",
+        "explicit": "PTN$P4C009",
+        "generators": "PTN$P2C006$P4C009",
         "itc_group": true
     },
     {
@@ -864,8 +864,8 @@
         "full_hermann_mauguin": "I 4",
         "hall": "i 4",
         "crystal_class": "4",
-        "symmetry_explicit": "ITN$P4C000",
-        "symmetry_generators": "ITN$P2C000$P4C000",
+        "explicit": "ITN$P4C000",
+        "generators": "ITN$P2C000$P4C000",
         "itc_group": true
     },
     {
@@ -875,8 +875,8 @@
         "full_hermann_mauguin": "I 41",
         "hall": "i 4bw",
         "crystal_class": "4",
-        "symmetry_explicit": "ITN$P4C063",
-        "symmetry_generators": "ITN$P2C666$P4C063",
+        "explicit": "ITN$P4C063",
+        "generators": "ITN$P2C666$P4C063",
         "itc_group": true
     },
     {
@@ -886,8 +886,8 @@
         "full_hermann_mauguin": "P -4",
         "hall": "p -4",
         "crystal_class": "-4",
-        "symmetry_explicit": "PTN$I4C000",
-        "symmetry_generators": "PTN$P2C000$I4C000",
+        "explicit": "PTN$I4C000",
+        "generators": "PTN$P2C000$I4C000",
         "itc_group": true
     },
     {
@@ -897,8 +897,8 @@
         "full_hermann_mauguin": "I -4",
         "hall": "i -4",
         "crystal_class": "-4",
-        "symmetry_explicit": "ITN$I4C000",
-        "symmetry_generators": "ITN$P2C000$I4C000",
+        "explicit": "ITN$I4C000",
+        "generators": "ITN$P2C000$I4C000",
         "itc_group": true
     },
     {
@@ -908,8 +908,8 @@
         "full_hermann_mauguin": "P 4/m",
         "hall": "-p 4",
         "crystal_class": "4/m",
-        "symmetry_explicit": "PTC$I1A000$P4C000",
-        "symmetry_generators": "PTC$P2C000$P4C000$I1A000",
+        "explicit": "PTC$I1A000$P4C000",
+        "generators": "PTC$P2C000$P4C000$I1A000",
         "itc_group": true
     },
     {
@@ -919,8 +919,8 @@
         "full_hermann_mauguin": "P 42/m",
         "hall": "-p 4c",
         "crystal_class": "4/m",
-        "symmetry_explicit": "PTC$I1A000$P4C006",
-        "symmetry_generators": "PTC$P2C000$P4C006$I1A000",
+        "explicit": "PTC$I1A000$P4C006",
+        "generators": "PTC$P2C000$P4C006$I1A000",
         "itc_group": true
     },
     {
@@ -930,8 +930,8 @@
         "full_hermann_mauguin": "P 4/n",
         "hall": "-p 4a",
         "crystal_class": "4/m",
-        "symmetry_explicit": "PTC$I1A000$P4C600",
-        "symmetry_generators": "PTC$P2C660$P4C600$I1A000",
+        "explicit": "PTC$I1A000$P4C600",
+        "generators": "PTC$P2C660$P4C600$I1A000",
         "itc_group": true
     },
     {
@@ -941,8 +941,8 @@
         "full_hermann_mauguin": "P 42/n",
         "hall": "-p 4bc",
         "crystal_class": "4/m",
-        "symmetry_explicit": "PTC$I1A000$P4C066",
-        "symmetry_generators": "PTC$P2C660$P4C066$I1A000",
+        "explicit": "PTC$I1A000$P4C066",
+        "generators": "PTC$P2C660$P4C066$I1A000",
         "itc_group": true
     },
     {
@@ -952,8 +952,8 @@
         "full_hermann_mauguin": "I 4/m",
         "hall": "-i 4",
         "crystal_class": "4/m",
-        "symmetry_explicit": "ITC$I1A000$P4C000",
-        "symmetry_generators": "ITC$P2C000$P4C000$I1A000",
+        "explicit": "ITC$I1A000$P4C000",
+        "generators": "ITC$P2C000$P4C000$I1A000",
         "itc_group": true
     },
     {
@@ -963,8 +963,8 @@
         "full_hermann_mauguin": "I 41/a",
         "hall": "-i 4ad",
         "crystal_class": "4/m",
-        "symmetry_explicit": "ITC$I1A000$P4C933",
-        "symmetry_generators": "ITC$P2C606$P4C933$I1A000",
+        "explicit": "ITC$I1A000$P4C933",
+        "generators": "ITC$P2C606$P4C933$I1A000",
         "itc_group": true
     },
     {
@@ -974,8 +974,8 @@
         "full_hermann_mauguin": "P 4 2 2",
         "hall": "p 4 2",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C000$P2A000",
-        "symmetry_generators": "PTN$P2C000$P4C000$P2B000",
+        "explicit": "PTN$P4C000$P2A000",
+        "generators": "PTN$P2C000$P4C000$P2B000",
         "itc_group": true
     },
     {
@@ -985,8 +985,8 @@
         "full_hermann_mauguin": "P 4 21 2",
         "hall": "p 4ab 2ab",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C660$P2A660",
-        "symmetry_generators": "PTN$P2C000$P4C660$P2B660",
+        "explicit": "PTN$P4C660$P2A660",
+        "generators": "PTN$P2C000$P4C660$P2B660",
         "itc_group": true
     },
     {
@@ -996,8 +996,8 @@
         "full_hermann_mauguin": "P 41 2 2",
         "hall": "p 4w 2c",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C003$P2A006",
-        "symmetry_generators": "PTN$P2C006$P4C003$P2B000",
+        "explicit": "PTN$P4C003$P2A006",
+        "generators": "PTN$P2C006$P4C003$P2B000",
         "itc_group": true
     },
     {
@@ -1007,8 +1007,8 @@
         "full_hermann_mauguin": "P 41 21 2",
         "hall": "p 4abw 2nw",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C663$P2A669",
-        "symmetry_generators": "PTN$P2C006$P4C663$P2B663",
+        "explicit": "PTN$P4C663$P2A669",
+        "generators": "PTN$P2C006$P4C663$P2B663",
         "itc_group": true
     },
     {
@@ -1018,8 +1018,8 @@
         "full_hermann_mauguin": "P 42 2 2",
         "hall": "p 4c 2",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C006$P2A000",
-        "symmetry_generators": "PTN$P2C000$P4C006$P2B000",
+        "explicit": "PTN$P4C006$P2A000",
+        "generators": "PTN$P2C000$P4C006$P2B000",
         "itc_group": true
     },
     {
@@ -1029,8 +1029,8 @@
         "full_hermann_mauguin": "P 42 21 2",
         "hall": "p 4n 2n",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C666$P2A666",
-        "symmetry_generators": "PTN$P2C000$P4C666$P2B666",
+        "explicit": "PTN$P4C666$P2A666",
+        "generators": "PTN$P2C000$P4C666$P2B666",
         "itc_group": true
     },
     {
@@ -1040,8 +1040,8 @@
         "full_hermann_mauguin": "P 43 2 2",
         "hall": "p 4cw 2c",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C009$P2A006",
-        "symmetry_generators": "PTN$P2C006$P4C009$P2B000",
+        "explicit": "PTN$P4C009$P2A006",
+        "generators": "PTN$P2C006$P4C009$P2B000",
         "itc_group": true
     },
     {
@@ -1051,8 +1051,8 @@
         "full_hermann_mauguin": "P 43 21 2",
         "hall": "p 4nw 2abw",
         "crystal_class": "422",
-        "symmetry_explicit": "PTN$P4C669$P2A663",
-        "symmetry_generators": "PTN$P2C006$P4C669$P2B669",
+        "explicit": "PTN$P4C669$P2A663",
+        "generators": "PTN$P2C006$P4C669$P2B669",
         "itc_group": true
     },
     {
@@ -1062,8 +1062,8 @@
         "full_hermann_mauguin": "I 4 2 2",
         "hall": "i 4 2",
         "crystal_class": "422",
-        "symmetry_explicit": "ITN$P4C000$P2A000",
-        "symmetry_generators": "ITN$P2C000$P4C000$P2B000",
+        "explicit": "ITN$P4C000$P2A000",
+        "generators": "ITN$P2C000$P4C000$P2B000",
         "itc_group": true
     },
     {
@@ -1073,8 +1073,8 @@
         "full_hermann_mauguin": "I 41 2 2",
         "hall": "i 4bw 2bw",
         "crystal_class": "422",
-        "symmetry_explicit": "ITN$P4C063$P2A063",
-        "symmetry_generators": "ITN$P2C666$P4C063$P2B609",
+        "explicit": "ITN$P4C063$P2A063",
+        "generators": "ITN$P2C666$P4C063$P2B609",
         "itc_group": true
     },
     {
@@ -1084,8 +1084,8 @@
         "full_hermann_mauguin": "P 4 m m",
         "hall": "p 4 -2",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C000$I2A000",
-        "symmetry_generators": "PTN$P2C000$P4C000$I2B000",
+        "explicit": "PTN$P4C000$I2A000",
+        "generators": "PTN$P2C000$P4C000$I2B000",
         "itc_group": true
     },
     {
@@ -1095,8 +1095,8 @@
         "full_hermann_mauguin": "P 4 b m",
         "hall": "p 4 -2ab",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C000$I2A660",
-        "symmetry_generators": "PTN$P2C000$P4C000$I2B660",
+        "explicit": "PTN$P4C000$I2A660",
+        "generators": "PTN$P2C000$P4C000$I2B660",
         "itc_group": true
     },
     {
@@ -1106,8 +1106,8 @@
         "full_hermann_mauguin": "P 42 c m",
         "hall": "p 4c -2c",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C006$I2A006",
-        "symmetry_generators": "PTN$P2C000$P4C006$I2B006",
+        "explicit": "PTN$P4C006$I2A006",
+        "generators": "PTN$P2C000$P4C006$I2B006",
         "itc_group": true
     },
     {
@@ -1117,8 +1117,8 @@
         "full_hermann_mauguin": "P 42 n m",
         "hall": "p 4n -2n",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C666$I2A666",
-        "symmetry_generators": "PTN$P2C000$P4C666$I2B666",
+        "explicit": "PTN$P4C666$I2A666",
+        "generators": "PTN$P2C000$P4C666$I2B666",
         "itc_group": true
     },
     {
@@ -1128,8 +1128,8 @@
         "full_hermann_mauguin": "P 4 c c",
         "hall": "p 4 -2c",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C000$I2A006",
-        "symmetry_generators": "PTN$P2C000$P4C000$I2B006",
+        "explicit": "PTN$P4C000$I2A006",
+        "generators": "PTN$P2C000$P4C000$I2B006",
         "itc_group": true
     },
     {
@@ -1139,8 +1139,8 @@
         "full_hermann_mauguin": "P 4 n c",
         "hall": "p 4 -2n",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C000$I2A666",
-        "symmetry_generators": "PTN$P2C000$P4C000$I2B666",
+        "explicit": "PTN$P4C000$I2A666",
+        "generators": "PTN$P2C000$P4C000$I2B666",
         "itc_group": true
     },
     {
@@ -1150,8 +1150,8 @@
         "full_hermann_mauguin": "P 42 m c",
         "hall": "p 4c -2",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C006$I2A000",
-        "symmetry_generators": "PTN$P2C000$P4C006$I2B000",
+        "explicit": "PTN$P4C006$I2A000",
+        "generators": "PTN$P2C000$P4C006$I2B000",
         "itc_group": true
     },
     {
@@ -1161,8 +1161,8 @@
         "full_hermann_mauguin": "P 42 b c",
         "hall": "p 4c -2ab",
         "crystal_class": "4mm",
-        "symmetry_explicit": "PTN$P4C006$I2A660",
-        "symmetry_generators": "PTN$P2C000$P4C006$I2B660",
+        "explicit": "PTN$P4C006$I2A660",
+        "generators": "PTN$P2C000$P4C006$I2B660",
         "itc_group": true
     },
     {
@@ -1172,8 +1172,8 @@
         "full_hermann_mauguin": "I 4 m m",
         "hall": "i 4 -2",
         "crystal_class": "4mm",
-        "symmetry_explicit": "ITN$P4C000$I2A000",
-        "symmetry_generators": "ITN$P2C000$P4C000$I2B000",
+        "explicit": "ITN$P4C000$I2A000",
+        "generators": "ITN$P2C000$P4C000$I2B000",
         "itc_group": true
     },
     {
@@ -1183,8 +1183,8 @@
         "full_hermann_mauguin": "I 4 c m",
         "hall": "i 4 -2c",
         "crystal_class": "4mm",
-        "symmetry_explicit": "ITN$P4C000$I2A006",
-        "symmetry_generators": "ITN$P2C000$P4C000$I2B006",
+        "explicit": "ITN$P4C000$I2A006",
+        "generators": "ITN$P2C000$P4C000$I2B006",
         "itc_group": true
     },
     {
@@ -1194,8 +1194,8 @@
         "full_hermann_mauguin": "I 41 m d",
         "hall": "i 4bw -2",
         "crystal_class": "4mm",
-        "symmetry_explicit": "ITN$P4C063$I2A666",
-        "symmetry_generators": "ITN$P2C666$P4C063$I2B000",
+        "explicit": "ITN$P4C063$I2A666",
+        "generators": "ITN$P2C666$P4C063$I2B000",
         "itc_group": true
     },
     {
@@ -1205,8 +1205,8 @@
         "full_hermann_mauguin": "I 41 c d",
         "hall": "i 4bw -2c",
         "crystal_class": "4mm",
-        "symmetry_explicit": "ITN$P4C063$I2A660",
-        "symmetry_generators": "ITN$P2C666$P4C063$I2B006",
+        "explicit": "ITN$P4C063$I2A660",
+        "generators": "ITN$P2C666$P4C063$I2B006",
         "itc_group": true
     },
     {
@@ -1216,8 +1216,8 @@
         "full_hermann_mauguin": "P -4 2 m",
         "hall": "p -4 2",
         "crystal_class": "-42m",
-        "symmetry_explicit": "PTN$I4C000$P2A000",
-        "symmetry_generators": "PTN$P2C000$I4C000$P2B000",
+        "explicit": "PTN$I4C000$P2A000",
+        "generators": "PTN$P2C000$I4C000$P2B000",
         "itc_group": true
     },
     {
@@ -1227,8 +1227,8 @@
         "full_hermann_mauguin": "P -4 2 c",
         "hall": "p -4 2c",
         "crystal_class": "-42m",
-        "symmetry_explicit": "PTN$I4C000$P2A006",
-        "symmetry_generators": "PTN$P2C000$I4C000$P2B006",
+        "explicit": "PTN$I4C000$P2A006",
+        "generators": "PTN$P2C000$I4C000$P2B006",
         "itc_group": true
     },
     {
@@ -1238,8 +1238,8 @@
         "full_hermann_mauguin": "P -4 21 m",
         "hall": "p -4 2ab",
         "crystal_class": "-42m",
-        "symmetry_explicit": "PTN$I4C000$P2A660",
-        "symmetry_generators": "PTN$P2C000$I4C000$P2B660",
+        "explicit": "PTN$I4C000$P2A660",
+        "generators": "PTN$P2C000$I4C000$P2B660",
         "itc_group": true
     },
     {
@@ -1249,8 +1249,8 @@
         "full_hermann_mauguin": "P -4 21 c",
         "hall": "p -4 2n",
         "crystal_class": "-42m",
-        "symmetry_explicit": "PTN$I4C000$P2A666",
-        "symmetry_generators": "PTN$P2C000$I4C000$P2B666",
+        "explicit": "PTN$I4C000$P2A666",
+        "generators": "PTN$P2C000$I4C000$P2B666",
         "itc_group": true
     },
     {
@@ -1260,8 +1260,8 @@
         "full_hermann_mauguin": "P -4 m 2",
         "hall": "p -4 -2",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "PTN$I4C000$P2D000",
-        "symmetry_generators": "PTN$P2C000$I4C000$I2B000",
+        "explicit": "PTN$I4C000$P2D000",
+        "generators": "PTN$P2C000$I4C000$I2B000",
         "itc_group": true
     },
     {
@@ -1271,8 +1271,8 @@
         "full_hermann_mauguin": "P -4 c 2",
         "hall": "p -4 -2c",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "PTN$I4C000$P2D006",
-        "symmetry_generators": "PTN$P2C000$I4C000$I2B006",
+        "explicit": "PTN$I4C000$P2D006",
+        "generators": "PTN$P2C000$I4C000$I2B006",
         "itc_group": true
     },
     {
@@ -1282,8 +1282,8 @@
         "full_hermann_mauguin": "P -4 b 2",
         "hall": "p -4 -2ab",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "PTN$I4C000$P2D660",
-        "symmetry_generators": "PTN$P2C000$I4C000$I2B660",
+        "explicit": "PTN$I4C000$P2D660",
+        "generators": "PTN$P2C000$I4C000$I2B660",
         "itc_group": true
     },
     {
@@ -1293,8 +1293,8 @@
         "full_hermann_mauguin": "P -4 n 2",
         "hall": "p -4 -2n",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "PTN$I4C000$P2D666",
-        "symmetry_generators": "PTN$P2C000$I4C000$I2B666",
+        "explicit": "PTN$I4C000$P2D666",
+        "generators": "PTN$P2C000$I4C000$I2B666",
         "itc_group": true
     },
     {
@@ -1304,8 +1304,8 @@
         "full_hermann_mauguin": "I -4 m 2",
         "hall": "i -4 -2",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "ITN$I4C000$P2D000",
-        "symmetry_generators": "ITN$P2C000$I4C000$I2B000",
+        "explicit": "ITN$I4C000$P2D000",
+        "generators": "ITN$P2C000$I4C000$I2B000",
         "itc_group": true
     },
     {
@@ -1315,8 +1315,8 @@
         "full_hermann_mauguin": "I -4 c 2",
         "hall": "i -4 -2c",
         "crystal_class": "-4m2",
-        "symmetry_explicit": "ITN$I4C000$P2D006",
-        "symmetry_generators": "ITN$P2C000$I4C000$I2B006",
+        "explicit": "ITN$I4C000$P2D006",
+        "generators": "ITN$P2C000$I4C000$I2B006",
         "itc_group": true
     },
     {
@@ -1326,8 +1326,8 @@
         "full_hermann_mauguin": "I -4 2 m",
         "hall": "i -4 2",
         "crystal_class": "-42m",
-        "symmetry_explicit": "ITN$I4C000$P2A000",
-        "symmetry_generators": "ITN$P2C000$I4C000$P2B000",
+        "explicit": "ITN$I4C000$P2A000",
+        "generators": "ITN$P2C000$I4C000$P2B000",
         "itc_group": true
     },
     {
@@ -1337,8 +1337,8 @@
         "full_hermann_mauguin": "I -4 2 d",
         "hall": "i -4 2bw",
         "crystal_class": "-42m",
-        "symmetry_explicit": "ITN$I4C000$P2A609",
-        "symmetry_generators": "ITN$P2C000$I4C000$P2B609",
+        "explicit": "ITN$I4C000$P2A609",
+        "generators": "ITN$P2C000$I4C000$P2B609",
         "itc_group": true
     },
     {
@@ -1348,8 +1348,8 @@
         "full_hermann_mauguin": "P 4/m 2/m 2/m",
         "hall": "-p 4 2",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C000$P2A000",
-        "symmetry_generators": "PTC$P2C000$P4C000$P2B000$I1A000",
+        "explicit": "PTC$I1A000$P4C000$P2A000",
+        "generators": "PTC$P2C000$P4C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -1359,8 +1359,8 @@
         "full_hermann_mauguin": "P 4/m 2/c 2/c",
         "hall": "-p 4 2c",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C000$P2A006",
-        "symmetry_generators": "PTC$P2C000$P4C000$P2B006$I1A000",
+        "explicit": "PTC$I1A000$P4C000$P2A006",
+        "generators": "PTC$P2C000$P4C000$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -1370,8 +1370,8 @@
         "full_hermann_mauguin": "P 4/n 2/b 2/m",
         "hall": "-p 4a 2b",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C600$P2A060",
-        "symmetry_generators": "PTC$P2C660$P4C600$P2B600$I1A000",
+        "explicit": "PTC$I1A000$P4C600$P2A060",
+        "generators": "PTC$P2C660$P4C600$P2B600$I1A000",
         "itc_group": true
     },
     {
@@ -1381,8 +1381,8 @@
         "full_hermann_mauguin": "P 4/n 2/n 2/c",
         "hall": "-p 4a 2bc",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C600$P2A066",
-        "symmetry_generators": "PTC$P2C660$P4C600$P2B606$I1A000",
+        "explicit": "PTC$I1A000$P4C600$P2A066",
+        "generators": "PTC$P2C660$P4C600$P2B606$I1A000",
         "itc_group": true
     },
     {
@@ -1392,8 +1392,8 @@
         "full_hermann_mauguin": "P 4/m 21/b 2/m",
         "hall": "-p 4 2ab",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C000$P2A660",
-        "symmetry_generators": "PTC$P2C000$P4C000$P2B660$I1A000",
+        "explicit": "PTC$I1A000$P4C000$P2A660",
+        "generators": "PTC$P2C000$P4C000$P2B660$I1A000",
         "itc_group": true
     },
     {
@@ -1403,8 +1403,8 @@
         "full_hermann_mauguin": "P 4/m 21/n 2/c",
         "hall": "-p 4 2n",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C000$P2A666",
-        "symmetry_generators": "PTC$P2C000$P4C000$P2B666$I1A000",
+        "explicit": "PTC$I1A000$P4C000$P2A666",
+        "generators": "PTC$P2C000$P4C000$P2B666$I1A000",
         "itc_group": true
     },
     {
@@ -1414,8 +1414,8 @@
         "full_hermann_mauguin": "P 4/n 21/m 2/m",
         "hall": "-p 4a 2a",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C600$P2A600",
-        "symmetry_generators": "PTC$P2C660$P4C600$P2B060$I1A000",
+        "explicit": "PTC$I1A000$P4C600$P2A600",
+        "generators": "PTC$P2C660$P4C600$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -1425,8 +1425,8 @@
         "full_hermann_mauguin": "P 4/n 21/c 2/c",
         "hall": "-p 4a 2ac",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C600$P2A606",
-        "symmetry_generators": "PTC$P2C660$P4C600$P2B066$I1A000",
+        "explicit": "PTC$I1A000$P4C600$P2A606",
+        "generators": "PTC$P2C660$P4C600$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -1436,8 +1436,8 @@
         "full_hermann_mauguin": "P 42/m 2/m 2/c",
         "hall": "-p 4c 2",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C006$P2A000",
-        "symmetry_generators": "PTC$P2C000$P4C006$P2B000$I1A000",
+        "explicit": "PTC$I1A000$P4C006$P2A000",
+        "generators": "PTC$P2C000$P4C006$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -1447,8 +1447,8 @@
         "full_hermann_mauguin": "P 42/m 2/c 2/m",
         "hall": "-p 4c 2c",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C006$P2A006",
-        "symmetry_generators": "PTC$P2C000$P4C006$P2B006$I1A000",
+        "explicit": "PTC$I1A000$P4C006$P2A006",
+        "generators": "PTC$P2C000$P4C006$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -1458,8 +1458,8 @@
         "full_hermann_mauguin": "P 42/n 2/b 2/c",
         "hall": "-p 4ac 2b",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C606$P2A060",
-        "symmetry_generators": "PTC$P2C660$P4C606$P2B600$I1A000",
+        "explicit": "PTC$I1A000$P4C606$P2A060",
+        "generators": "PTC$P2C660$P4C606$P2B600$I1A000",
         "itc_group": true
     },
     {
@@ -1469,8 +1469,8 @@
         "full_hermann_mauguin": "P 42/n 2/n 2/m",
         "hall": "-p 4ac 2bc",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C606$P2A066",
-        "symmetry_generators": "PTC$P2C660$P4C606$P2B606$I1A000",
+        "explicit": "PTC$I1A000$P4C606$P2A066",
+        "generators": "PTC$P2C660$P4C606$P2B606$I1A000",
         "itc_group": true
     },
     {
@@ -1480,8 +1480,8 @@
         "full_hermann_mauguin": "P 42/m 21/b 2/c",
         "hall": "-p 4c 2ab",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C006$P2A660",
-        "symmetry_generators": "PTC$P2C000$P4C006$P2B660$I1A000",
+        "explicit": "PTC$I1A000$P4C006$P2A660",
+        "generators": "PTC$P2C000$P4C006$P2B660$I1A000",
         "itc_group": true
     },
     {
@@ -1491,8 +1491,8 @@
         "full_hermann_mauguin": "P 42/m 21/n 2/m",
         "hall": "-p 4n 2n",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C666$P2A666",
-        "symmetry_generators": "PTC$P2C000$P4C666$P2B666$I1A000",
+        "explicit": "PTC$I1A000$P4C666$P2A666",
+        "generators": "PTC$P2C000$P4C666$P2B666$I1A000",
         "itc_group": true
     },
     {
@@ -1502,8 +1502,8 @@
         "full_hermann_mauguin": "P 42/n 21/m 2/c",
         "hall": "-p 4ac 2a",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C606$P2A600",
-        "symmetry_generators": "PTC$P2C660$P4C606$P2B060$I1A000",
+        "explicit": "PTC$I1A000$P4C606$P2A600",
+        "generators": "PTC$P2C660$P4C606$P2B060$I1A000",
         "itc_group": true
     },
     {
@@ -1513,8 +1513,8 @@
         "full_hermann_mauguin": "P 42/n 21/c 2/m",
         "hall": "-p 4ac 2ac",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "PTC$I1A000$P4C606$P2A606",
-        "symmetry_generators": "PTC$P2C660$P4C606$P2B066$I1A000",
+        "explicit": "PTC$I1A000$P4C606$P2A606",
+        "generators": "PTC$P2C660$P4C606$P2B066$I1A000",
         "itc_group": true
     },
     {
@@ -1524,8 +1524,8 @@
         "full_hermann_mauguin": "I 4/m 2/m 2/m",
         "hall": "-i 4 2",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "ITC$I1A000$P4C000$P2A000",
-        "symmetry_generators": "ITC$P2C000$P4C000$P2B000$I1A000",
+        "explicit": "ITC$I1A000$P4C000$P2A000",
+        "generators": "ITC$P2C000$P4C000$P2B000$I1A000",
         "itc_group": true
     },
     {
@@ -1535,8 +1535,8 @@
         "full_hermann_mauguin": "I 4/m 2/c 2/m",
         "hall": "-i 4 2c",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "ITC$I1A000$P4C000$P2A006",
-        "symmetry_generators": "ITC$P2C000$P4C000$P2B006$I1A000",
+        "explicit": "ITC$I1A000$P4C000$P2A006",
+        "generators": "ITC$P2C000$P4C000$P2B006$I1A000",
         "itc_group": true
     },
     {
@@ -1546,8 +1546,8 @@
         "full_hermann_mauguin": "I 41/a 2/m 2/d",
         "hall": "-i 4bd 2",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "ITC$I1A000$P4C393$P2A000",
-        "symmetry_generators": "ITC$P2C606$P4C393$P2B606$I1A000",
+        "explicit": "ITC$I1A000$P4C393$P2A000",
+        "generators": "ITC$P2C606$P4C393$P2B606$I1A000",
         "itc_group": true
     },
     {
@@ -1557,8 +1557,8 @@
         "full_hermann_mauguin": "I 41/a 2/c 2/d",
         "hall": "-i 4bd 2c",
         "crystal_class": "4/mmm",
-        "symmetry_explicit": "ITC$I1A000$P4C393$P2A006",
-        "symmetry_generators": "ITC$P2C606$P4C393$P2B600$I1A000",
+        "explicit": "ITC$I1A000$P4C393$P2A006",
+        "generators": "ITC$P2C606$P4C393$P2B600$I1A000",
         "itc_group": true
     },
     {
@@ -1568,8 +1568,8 @@
         "full_hermann_mauguin": "P 3",
         "hall": "p 3",
         "crystal_class": "3",
-        "symmetry_explicit": "PRN$P3C000",
-        "symmetry_generators": "PRN$P3C000",
+        "explicit": "PRN$P3C000",
+        "generators": "PRN$P3C000",
         "itc_group": true
     },
     {
@@ -1579,8 +1579,8 @@
         "full_hermann_mauguin": "P 31",
         "hall": "p 31",
         "crystal_class": "3",
-        "symmetry_explicit": "PRN$P3C004",
-        "symmetry_generators": "PRN$P3C004",
+        "explicit": "PRN$P3C004",
+        "generators": "PRN$P3C004",
         "itc_group": true
     },
     {
@@ -1590,8 +1590,8 @@
         "full_hermann_mauguin": "P 32",
         "hall": "p 32",
         "crystal_class": "3",
-        "symmetry_explicit": "PRN$P3C008",
-        "symmetry_generators": "PRN$P3C008",
+        "explicit": "PRN$P3C008",
+        "generators": "PRN$P3C008",
         "itc_group": true
     },
     {
@@ -1601,8 +1601,8 @@
         "full_hermann_mauguin": "R 3",
         "hall": "r 3",
         "crystal_class": "3",
-        "symmetry_explicit": "RRN$P3C000",
-        "symmetry_generators": "RRN$P3C000",
+        "explicit": "RRN$P3C000",
+        "generators": "RRN$P3C000",
         "itc_group": true
     },
     {
@@ -1612,8 +1612,8 @@
         "full_hermann_mauguin": "P -3",
         "hall": "-p 3",
         "crystal_class": "-3",
-        "symmetry_explicit": "PRC$I3C000",
-        "symmetry_generators": "PRC$P3C000$I1A000",
+        "explicit": "PRC$I3C000",
+        "generators": "PRC$P3C000$I1A000",
         "itc_group": true
     },
     {
@@ -1623,8 +1623,8 @@
         "full_hermann_mauguin": "R -3",
         "hall": "-r 3",
         "crystal_class": "-3",
-        "symmetry_explicit": "RRC$I3C000",
-        "symmetry_generators": "RRC$P3C000$I1A000",
+        "explicit": "RRC$I3C000",
+        "generators": "RRC$P3C000$I1A000",
         "itc_group": true
     },
     {
@@ -1634,8 +1634,8 @@
         "full_hermann_mauguin": "P 3 1 2",
         "hall": "p 3 2",
         "crystal_class": "312",
-        "symmetry_explicit": "PRN$P3C000$P2G000",
-        "symmetry_generators": "PRN$P3C000$P2H000",
+        "explicit": "PRN$P3C000$P2G000",
+        "generators": "PRN$P3C000$P2H000",
         "itc_group": true
     },
     {
@@ -1645,8 +1645,8 @@
         "full_hermann_mauguin": "P 3 2 1",
         "hall": "p 3 2\"",
         "crystal_class": "321",
-        "symmetry_explicit": "PRN$P3C000$P2F000",
-        "symmetry_generators": "PRN$P3C000$P2I000",
+        "explicit": "PRN$P3C000$P2F000",
+        "generators": "PRN$P3C000$P2I000",
         "itc_group": true
     },
     {
@@ -1656,8 +1656,8 @@
         "full_hermann_mauguin": "P 31 1 2",
         "hall": "p 31 2 (0 0 4)",
         "crystal_class": "312",
-        "symmetry_explicit": "PRN$P3C004$P2G000",
-        "symmetry_generators": "PRN$P3C004$P2H008",
+        "explicit": "PRN$P3C004$P2G000",
+        "generators": "PRN$P3C004$P2H008",
         "itc_group": true
     },
     {
@@ -1667,8 +1667,8 @@
         "full_hermann_mauguin": "P 31 2 1",
         "hall": "p 31 2\"",
         "crystal_class": "321",
-        "symmetry_explicit": "PRN$P3C004$P2F008",
-        "symmetry_generators": "PRN$P3C004$P2I000",
+        "explicit": "PRN$P3C004$P2F008",
+        "generators": "PRN$P3C004$P2I000",
         "itc_group": true
     },
     {
@@ -1678,8 +1678,8 @@
         "full_hermann_mauguin": "P 32 1 2",
         "hall": "p 32 2 (0 0 2)",
         "crystal_class": "312",
-        "symmetry_explicit": "PRN$P3C008$P2G000",
-        "symmetry_generators": "PRN$P3C008$P2H004",
+        "explicit": "PRN$P3C008$P2G000",
+        "generators": "PRN$P3C008$P2H004",
         "itc_group": true
     },
     {
@@ -1689,8 +1689,8 @@
         "full_hermann_mauguin": "P 32 2 1",
         "hall": "p 32 2\"",
         "crystal_class": "321",
-        "symmetry_explicit": "PRN$P3C008$P2F004",
-        "symmetry_generators": "PRN$P3C008$P2I000"
+        "explicit": "PRN$P3C008$P2F004",
+        "generators": "PRN$P3C008$P2I000"
     },
     {
         "number": 155,
@@ -1699,8 +1699,8 @@
         "full_hermann_mauguin": "R 3 2",
         "hall": "r 3 2\"",
         "crystal_class": "32",
-        "symmetry_explicit": "RRN$P3C000$P2F000",
-        "symmetry_generators": "RRN$P3C000$P2I000",
+        "explicit": "RRN$P3C000$P2F000",
+        "generators": "RRN$P3C000$P2I000",
         "itc_group": true
     },
     {
@@ -1710,8 +1710,8 @@
         "full_hermann_mauguin": "P 3 m 1",
         "hall": "p 3 -2\"",
         "crystal_class": "3m1",
-        "symmetry_explicit": "PRN$P3C000$I2F000",
-        "symmetry_generators": "PRN$P3C000$I2I000",
+        "explicit": "PRN$P3C000$I2F000",
+        "generators": "PRN$P3C000$I2I000",
         "itc_group": true
     },
     {
@@ -1721,8 +1721,8 @@
         "full_hermann_mauguin": "P 3 1 m",
         "hall": "p 3 -2",
         "crystal_class": "31m",
-        "symmetry_explicit": "PRN$P3C000$I2G000",
-        "symmetry_generators": "PRN$P3C000$I2H000",
+        "explicit": "PRN$P3C000$I2G000",
+        "generators": "PRN$P3C000$I2H000",
         "itc_group": true
     },
     {
@@ -1732,8 +1732,8 @@
         "full_hermann_mauguin": "P 3 c 1",
         "hall": "p 3 -2\"c",
         "crystal_class": "3m1",
-        "symmetry_explicit": "PRN$P3C000$I2F006",
-        "symmetry_generators": "PRN$P3C000$I2I006",
+        "explicit": "PRN$P3C000$I2F006",
+        "generators": "PRN$P3C000$I2I006",
         "itc_group": true
     },
     {
@@ -1743,8 +1743,8 @@
         "full_hermann_mauguin": "P 3 1 c",
         "hall": "p 3 -2c",
         "crystal_class": "31m",
-        "symmetry_explicit": "PRN$P3C000$I2G006",
-        "symmetry_generators": "PRN$P3C000$I2H006",
+        "explicit": "PRN$P3C000$I2G006",
+        "generators": "PRN$P3C000$I2H006",
         "itc_group": true
     },
     {
@@ -1754,8 +1754,8 @@
         "full_hermann_mauguin": "R 3 m",
         "hall": "r 3 -2\"",
         "crystal_class": "3m",
-        "symmetry_explicit": "RRN$P3C000$I2F000",
-        "symmetry_generators": "RRN$P3C000$I2I000",
+        "explicit": "RRN$P3C000$I2F000",
+        "generators": "RRN$P3C000$I2I000",
         "itc_group": true
     },
     {
@@ -1765,8 +1765,8 @@
         "full_hermann_mauguin": "R 3 c",
         "hall": "r 3 -2\"c",
         "crystal_class": "3m",
-        "symmetry_explicit": "RRN$P3C000$I2F006",
-        "symmetry_generators": "RRN$P3C000$I2I006",
+        "explicit": "RRN$P3C000$I2F006",
+        "generators": "RRN$P3C000$I2I006",
         "itc_group": true
     },
     {
@@ -1776,8 +1776,8 @@
         "full_hermann_mauguin": "P -3 1 2/m",
         "hall": "-p 3 2",
         "crystal_class": "-31m",
-        "symmetry_explicit": "PRC$I3C000$P2G000",
-        "symmetry_generators": "PRC$P3C000$P2H000$I1A000",
+        "explicit": "PRC$I3C000$P2G000",
+        "generators": "PRC$P3C000$P2H000$I1A000",
         "itc_group": true
     },
     {
@@ -1787,8 +1787,8 @@
         "full_hermann_mauguin": "P -3 1 2/c",
         "hall": "-p 3 2c",
         "crystal_class": "-31m",
-        "symmetry_explicit": "PRC$I3C000$P2G006",
-        "symmetry_generators": "PRC$P3C000$P2H006$I1A000",
+        "explicit": "PRC$I3C000$P2G006",
+        "generators": "PRC$P3C000$P2H006$I1A000",
         "itc_group": true
     },
     {
@@ -1798,8 +1798,8 @@
         "full_hermann_mauguin": "P -3 2/m 1",
         "hall": "-p 3 2\"",
         "crystal_class": "-3m1",
-        "symmetry_explicit": "PRC$I3C000$P2F000",
-        "symmetry_generators": "PRC$P3C000$P2I000$I1A000",
+        "explicit": "PRC$I3C000$P2F000",
+        "generators": "PRC$P3C000$P2I000$I1A000",
         "itc_group": true
     },
     {
@@ -1809,8 +1809,8 @@
         "full_hermann_mauguin": "P -3 2/c 1",
         "hall": "-p 3 2\"c",
         "crystal_class": "-3m1",
-        "symmetry_explicit": "PRC$I3C000$P2F006",
-        "symmetry_generators": "PRC$P3C000$P2I006$I1A000",
+        "explicit": "PRC$I3C000$P2F006",
+        "generators": "PRC$P3C000$P2I006$I1A000",
         "itc_group": true
     },
     {
@@ -1820,8 +1820,8 @@
         "full_hermann_mauguin": "R -3 2/m",
         "hall": "-r 3 2\"",
         "crystal_class": "-3m",
-        "symmetry_explicit": "RRC$I3C000$P2F000",
-        "symmetry_generators": "RRC$P3C000$P2I000$I1A000",
+        "explicit": "RRC$I3C000$P2F000",
+        "generators": "RRC$P3C000$P2I000$I1A000",
         "itc_group": true
     },
     {
@@ -1831,8 +1831,8 @@
         "full_hermann_mauguin": "R -3 2/c",
         "hall": "-r 3 2\"c",
         "crystal_class": "-3m",
-        "symmetry_explicit": "RRC$I3C000$P2F006",
-        "symmetry_generators": "RRC$P3C000$P2I006$I1A000",
+        "explicit": "RRC$I3C000$P2F006",
+        "generators": "RRC$P3C000$P2I006$I1A000",
         "itc_group": true
     },
     {
@@ -1842,8 +1842,8 @@
         "full_hermann_mauguin": "P 6",
         "hall": "p 6",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C000",
-        "symmetry_generators": "PHN$P3C000$P2C000",
+        "explicit": "PHN$P6C000",
+        "generators": "PHN$P3C000$P2C000",
         "itc_group": true
     },
     {
@@ -1853,8 +1853,8 @@
         "full_hermann_mauguin": "P 61",
         "hall": "p 61",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C002",
-        "symmetry_generators": "PHN$P3C004$P2C006",
+        "explicit": "PHN$P6C002",
+        "generators": "PHN$P3C004$P2C006",
         "itc_group": true
     },
     {
@@ -1864,8 +1864,8 @@
         "full_hermann_mauguin": "P 65",
         "hall": "p 65",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C005",
-        "symmetry_generators": "PHN$P3C008$P2C006",
+        "explicit": "PHN$P6C005",
+        "generators": "PHN$P3C008$P2C006",
         "itc_group": true
     },
     {
@@ -1875,8 +1875,8 @@
         "full_hermann_mauguin": "P 62",
         "hall": "p 62",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C004",
-        "symmetry_generators": "PHN$P3C008$P2C000",
+        "explicit": "PHN$P6C004",
+        "generators": "PHN$P3C008$P2C000",
         "itc_group": true
     },
     {
@@ -1886,8 +1886,8 @@
         "full_hermann_mauguin": "P 64",
         "hall": "p 64",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C008",
-        "symmetry_generators": "PHN$P3C004$P2C000",
+        "explicit": "PHN$P6C008",
+        "generators": "PHN$P3C004$P2C000",
         "itc_group": true
     },
     {
@@ -1897,8 +1897,8 @@
         "full_hermann_mauguin": "P 63",
         "hall": "p 6c",
         "crystal_class": "6",
-        "symmetry_explicit": "PHN$P6C006",
-        "symmetry_generators": "PHN$P3C000$P2C006",
+        "explicit": "PHN$P6C006",
+        "generators": "PHN$P3C000$P2C006",
         "itc_group": true
     },
     {
@@ -1908,8 +1908,8 @@
         "full_hermann_mauguin": "P -6",
         "hall": "p -6",
         "crystal_class": "-6",
-        "symmetry_explicit": "PHN$I6C000",
-        "symmetry_generators": "PHN$P3C000$I2C000",
+        "explicit": "PHN$I6C000",
+        "generators": "PHN$P3C000$I2C000",
         "itc_group": true
     },
     {
@@ -1919,8 +1919,8 @@
         "full_hermann_mauguin": "P 6/m",
         "hall": "-p 6",
         "crystal_class": "6/m",
-        "symmetry_explicit": "PHC$I1A000$P6C000",
-        "symmetry_generators": "PHC$P3C000$P2C000$I1A000",
+        "explicit": "PHC$I1A000$P6C000",
+        "generators": "PHC$P3C000$P2C000$I1A000",
         "itc_group": true
     },
     {
@@ -1930,8 +1930,8 @@
         "full_hermann_mauguin": "P 63/m",
         "hall": "-p 6c",
         "crystal_class": "6/m",
-        "symmetry_explicit": "PHC$I1A000$P6C006",
-        "symmetry_generators": "PHC$P3C000$P2C006$I1A000",
+        "explicit": "PHC$I1A000$P6C006",
+        "generators": "PHC$P3C000$P2C006$I1A000",
         "itc_group": true
     },
     {
@@ -1941,8 +1941,8 @@
         "full_hermann_mauguin": "P 6 2 2",
         "hall": "p 6 2",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C000$P2F000",
-        "symmetry_generators": "PHN$P3C000$P2C000$P2I000",
+        "explicit": "PHN$P6C000$P2F000",
+        "generators": "PHN$P3C000$P2C000$P2I000",
         "itc_group": true
     },
     {
@@ -1952,8 +1952,8 @@
         "full_hermann_mauguin": "P 61 2 2",
         "hall": "p 61 2 (0 0 5)",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C002$P2F000",
-        "symmetry_generators": "PHN$P3C004$P2C006$P2I004",
+        "explicit": "PHN$P6C002$P2F000",
+        "generators": "PHN$P3C004$P2C006$P2I004",
         "itc_group": true
     },
     {
@@ -1963,8 +1963,8 @@
         "full_hermann_mauguin": "P 65 2 2",
         "hall": "p 65 2 (0 0 1)",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C005$P2F000",
-        "symmetry_generators": "PHN$P3C008$P2C006$P2I008",
+        "explicit": "PHN$P6C005$P2F000",
+        "generators": "PHN$P3C008$P2C006$P2I008",
         "itc_group": true
     },
     {
@@ -1974,8 +1974,8 @@
         "full_hermann_mauguin": "P 62 2 2",
         "hall": "p 62 2 (0 0 4)",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C004$P2F000",
-        "symmetry_generators": "PHN$P3C008$P2C000$P2I008",
+        "explicit": "PHN$P6C004$P2F000",
+        "generators": "PHN$P3C008$P2C000$P2I008",
         "itc_group": true
     },
     {
@@ -1985,8 +1985,8 @@
         "full_hermann_mauguin": "P 64 2 2",
         "hall": "p 64 2 (0 0 2)",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C008$P2F000",
-        "symmetry_generators": "PHN$P3C004$P2C000$P2I004",
+        "explicit": "PHN$P6C008$P2F000",
+        "generators": "PHN$P3C004$P2C000$P2I004",
         "itc_group": true
     },
     {
@@ -1996,8 +1996,8 @@
         "full_hermann_mauguin": "P 63 2 2",
         "hall": "p 6c 2c",
         "crystal_class": "622",
-        "symmetry_explicit": "PHN$P6C006$P2F000",
-        "symmetry_generators": "PHN$P3C000$P2C006$P2I000",
+        "explicit": "PHN$P6C006$P2F000",
+        "generators": "PHN$P3C000$P2C006$P2I000",
         "itc_group": true
     },
     {
@@ -2007,8 +2007,8 @@
         "full_hermann_mauguin": "P 6 m m",
         "hall": "p 6 -2",
         "crystal_class": "6mm",
-        "symmetry_explicit": "PHN$P6C000$I2F000",
-        "symmetry_generators": "PHN$P3C000$P2C000$I2I000",
+        "explicit": "PHN$P6C000$I2F000",
+        "generators": "PHN$P3C000$P2C000$I2I000",
         "itc_group": true
     },
     {
@@ -2018,8 +2018,8 @@
         "full_hermann_mauguin": "P 6 c c",
         "hall": "p 6 -2c",
         "crystal_class": "6mm",
-        "symmetry_explicit": "PHN$P6C000$I2F006",
-        "symmetry_generators": "PHN$P3C000$P2C000$I2I006",
+        "explicit": "PHN$P6C000$I2F006",
+        "generators": "PHN$P3C000$P2C000$I2I006",
         "itc_group": true
     },
     {
@@ -2029,8 +2029,8 @@
         "full_hermann_mauguin": "P 63 c m",
         "hall": "p 6c -2",
         "crystal_class": "6mm",
-        "symmetry_explicit": "PHN$P6C006$I2F006",
-        "symmetry_generators": "PHN$P3C000$P2C006$I2I006",
+        "explicit": "PHN$P6C006$I2F006",
+        "generators": "PHN$P3C000$P2C006$I2I006",
         "itc_group": true
     },
     {
@@ -2040,8 +2040,8 @@
         "full_hermann_mauguin": "P 63 m c",
         "hall": "p 6c -2c",
         "crystal_class": "6mm",
-        "symmetry_explicit": "PHN$P6C006$I2F006",
-        "symmetry_generators": "PHN$P3C000$P2C006$I2I000",
+        "explicit": "PHN$P6C006$I2F006",
+        "generators": "PHN$P3C000$P2C006$I2I000",
         "itc_group": true
     },
     {
@@ -2051,8 +2051,8 @@
         "full_hermann_mauguin": "P -6 m 2",
         "hall": "p -6 2",
         "crystal_class": "-6m2",
-        "symmetry_explicit": "PHN$I6C000$P2G000",
-        "symmetry_generators": "PHN$P3C000$I2C000$I2I000",
+        "explicit": "PHN$I6C000$P2G000",
+        "generators": "PHN$P3C000$I2C000$I2I000",
         "itc_group": true
     },
     {
@@ -2062,8 +2062,8 @@
         "full_hermann_mauguin": "P -6 c 2",
         "hall": "p -6c 2",
         "crystal_class": "-6m2",
-        "symmetry_explicit": "PHN$I6C006$P2G000",
-        "symmetry_generators": "PHN$P3C000$I2C006$I2I006",
+        "explicit": "PHN$I6C006$P2G000",
+        "generators": "PHN$P3C000$I2C006$I2I006",
         "itc_group": true
     },
     {
@@ -2073,8 +2073,8 @@
         "full_hermann_mauguin": "P -6 2 m",
         "hall": "p -6 -2",
         "crystal_class": "-62m",
-        "symmetry_explicit": "PHN$I6C000$P2F000",
-        "symmetry_generators": "PHN$P3C000$I2C000$P2I000",
+        "explicit": "PHN$I6C000$P2F000",
+        "generators": "PHN$P3C000$I2C000$P2I000",
         "itc_group": true
     },
     {
@@ -2084,8 +2084,8 @@
         "full_hermann_mauguin": "P -6 2 c",
         "hall": "p -6c -2c",
         "crystal_class": "-62m",
-        "symmetry_explicit": "PHN$I6C006$P2F000",
-        "symmetry_generators": "PHN$P3C000$I2C006$P2I000",
+        "explicit": "PHN$I6C006$P2F000",
+        "generators": "PHN$P3C000$I2C006$P2I000",
         "itc_group": true
     },
     {
@@ -2095,8 +2095,8 @@
         "full_hermann_mauguin": "P 6/m 2/m 2/m",
         "hall": "-p 6 2",
         "crystal_class": "6/mmm",
-        "symmetry_explicit": "PHC$I1A000$P6C000$P2F000",
-        "symmetry_generators": "PHC$P3C000$P2C000$P2I000$I1A000",
+        "explicit": "PHC$I1A000$P6C000$P2F000",
+        "generators": "PHC$P3C000$P2C000$P2I000$I1A000",
         "itc_group": true
     },
     {
@@ -2106,8 +2106,8 @@
         "full_hermann_mauguin": "P 6/m 2/c 2/c",
         "hall": "-p 6 2c",
         "crystal_class": "6/mmm",
-        "symmetry_explicit": "PHC$I1A000$P6C000$P2F006",
-        "symmetry_generators": "PHC$P3C000$P2C000$P2I006$I1A000",
+        "explicit": "PHC$I1A000$P6C000$P2F006",
+        "generators": "PHC$P3C000$P2C000$P2I006$I1A000",
         "itc_group": true
     },
     {
@@ -2117,8 +2117,8 @@
         "full_hermann_mauguin": "P 63/m 2/c 2/m",
         "hall": "-p 6c 2",
         "crystal_class": "6/mmm",
-        "symmetry_explicit": "PHC$I1A000$P6C006$P2F006",
-        "symmetry_generators": "PHC$P3C000$P2C006$P2I006$I1A000",
+        "explicit": "PHC$I1A000$P6C006$P2F006",
+        "generators": "PHC$P3C000$P2C006$P2I006$I1A000",
         "itc_group": true
     },
     {
@@ -2128,8 +2128,8 @@
         "full_hermann_mauguin": "P 63/m 2/m 2/c",
         "hall": "-p 6c 2c",
         "crystal_class": "6/mmm",
-        "symmetry_explicit": "PHC$I1A000$P6C006$P2F000",
-        "symmetry_generators": "PHC$P3C000$P2C006$P2I000$I1A000",
+        "explicit": "PHC$I1A000$P6C006$P2F000",
+        "generators": "PHC$P3C000$P2C006$P2I000$I1A000",
         "itc_group": true
     },
     {
@@ -2139,8 +2139,8 @@
         "full_hermann_mauguin": "P 2 3",
         "hall": "p 2 2 3",
         "crystal_class": "23",
-        "symmetry_explicit": "PCN$P3Q000$P2C000$P2A000",
-        "symmetry_generators": "PCN$P2C000$P2B000$P3Q000",
+        "explicit": "PCN$P3Q000$P2C000$P2A000",
+        "generators": "PCN$P2C000$P2B000$P3Q000",
         "itc_group": true
     },
     {
@@ -2150,8 +2150,8 @@
         "full_hermann_mauguin": "F 2 3",
         "hall": "f 2 2 3",
         "crystal_class": "23",
-        "symmetry_explicit": "FCN$P3Q000$P2C000$P2A000",
-        "symmetry_generators": "FCN$P2C000$P2B000$P3Q000",
+        "explicit": "FCN$P3Q000$P2C000$P2A000",
+        "generators": "FCN$P2C000$P2B000$P3Q000",
         "itc_group": true
     },
     {
@@ -2161,8 +2161,8 @@
         "full_hermann_mauguin": "I 2 3",
         "hall": "i 2 2 3",
         "crystal_class": "23",
-        "symmetry_explicit": "ICN$P3Q000$P2C000$P2A000",
-        "symmetry_generators": "ICN$P2C000$P2B000$P3Q000",
+        "explicit": "ICN$P3Q000$P2C000$P2A000",
+        "generators": "ICN$P2C000$P2B000$P3Q000",
         "itc_group": true
     },
     {
@@ -2172,8 +2172,8 @@
         "full_hermann_mauguin": "P 21 3",
         "hall": "p 2ac 2ab 3",
         "crystal_class": "23",
-        "symmetry_explicit": "PCN$P3Q000$P2C606$P2A660",
-        "symmetry_generators": "PCN$P2C606$P2B066$P3Q000",
+        "explicit": "PCN$P3Q000$P2C606$P2A660",
+        "generators": "PCN$P2C606$P2B066$P3Q000",
         "itc_group": true
     },
     {
@@ -2183,8 +2183,8 @@
         "full_hermann_mauguin": "I 21 3",
         "hall": "i 2b 2c 3",
         "crystal_class": "23",
-        "symmetry_explicit": "ICN$P3Q000$P2C606$P2A660",
-        "symmetry_generators": "ICN$P2C606$P2B066$P3Q000",
+        "explicit": "ICN$P3Q000$P2C606$P2A660",
+        "generators": "ICN$P2C606$P2B066$P3Q000",
         "itc_group": true
     },
     {
@@ -2194,8 +2194,8 @@
         "full_hermann_mauguin": "P 2/m -3",
         "hall": "-p 2 2 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "PCC$I3Q000$P2C000$P2A000",
-        "symmetry_generators": "PCC$P2C000$P2B000$P3Q000$I1A000",
+        "explicit": "PCC$I3Q000$P2C000$P2A000",
+        "generators": "PCC$P2C000$P2B000$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2205,8 +2205,8 @@
         "full_hermann_mauguin": "P 2/n -3",
         "hall": "-p 2ab 2bc 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "PCC$I3Q666$P2C000$P2A000",
-        "symmetry_generators": "PCC$P2C660$P2B606$P3Q000$I1A000",
+        "explicit": "PCC$I3Q666$P2C000$P2A000",
+        "generators": "PCC$P2C660$P2B606$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2216,8 +2216,8 @@
         "full_hermann_mauguin": "F 2/m -3",
         "hall": "-f 2 2 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "FCC$I3Q000$P2C000$P2A000",
-        "symmetry_generators": "FCC$P2C000$P2B000$P3Q000$I1A000",
+        "explicit": "FCC$I3Q000$P2C000$P2A000",
+        "generators": "FCC$P2C000$P2B000$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2227,8 +2227,8 @@
         "full_hermann_mauguin": "F 2/d -3",
         "hall": "-f 2uv 2vw 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "FCC$I3Q000$P2C330$P2A033",
-        "symmetry_generators": "FCC$P2C990$P2B909$P3Q000$I1A000",
+        "explicit": "FCC$I3Q000$P2C330$P2A033",
+        "generators": "FCC$P2C990$P2B909$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2238,8 +2238,8 @@
         "full_hermann_mauguin": "I 2/m -3",
         "hall": "-i 2 2 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "ICC$I3Q000$P2C000$P2A000",
-        "symmetry_generators": "ICC$P2C000$P2B000$P3Q000$I1A000",
+        "explicit": "ICC$I3Q000$P2C000$P2A000",
+        "generators": "ICC$P2C000$P2B000$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2249,8 +2249,8 @@
         "full_hermann_mauguin": "P 21/a -3",
         "hall": "-p 2ac 2ab 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "PCC$I3Q000$P2C606$P2A660",
-        "symmetry_generators": "PCC$P2C606$P2B066$P3Q000$I1A000",
+        "explicit": "PCC$I3Q000$P2C606$P2A660",
+        "generators": "PCC$P2C606$P2B066$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2260,8 +2260,8 @@
         "full_hermann_mauguin": "I 21/a -3",
         "hall": "-i 2b 2c 3",
         "crystal_class": "m-3",
-        "symmetry_explicit": "ICC$I3Q000$P2C606$P2A660",
-        "symmetry_generators": "ICC$P2C606$P2B066$P3Q000$I1A000",
+        "explicit": "ICC$I3Q000$P2C606$P2A660",
+        "generators": "ICC$P2C606$P2B066$P3Q000$I1A000",
         "itc_group": true
     },
     {
@@ -2271,8 +2271,8 @@
         "full_hermann_mauguin": "P 4 3 2",
         "hall": "p 4 2 3",
         "crystal_class": "432",
-        "symmetry_explicit": "PCN$P3Q000$P4C000$P2D000",
-        "symmetry_generators": "PCN$P2C000$P2B000$P3Q000$P2D000",
+        "explicit": "PCN$P3Q000$P4C000$P2D000",
+        "generators": "PCN$P2C000$P2B000$P3Q000$P2D000",
         "itc_group": true
     },
     {
@@ -2282,8 +2282,8 @@
         "full_hermann_mauguin": "P 42 3 2",
         "hall": "p 4n 2 3",
         "crystal_class": "432",
-        "symmetry_explicit": "PCN$P3Q000$P4C666$P2D666",
-        "symmetry_generators": "PCN$P2C000$P2B000$P3Q000$P2D666",
+        "explicit": "PCN$P3Q000$P4C666$P2D666",
+        "generators": "PCN$P2C000$P2B000$P3Q000$P2D666",
         "itc_group": true
     },
     {
@@ -2293,8 +2293,8 @@
         "full_hermann_mauguin": "F 4 3 2",
         "hall": "f 4 2 3",
         "crystal_class": "432",
-        "symmetry_explicit": "FCN$P3Q000$P4C000$P2D000",
-        "symmetry_generators": "FCN$P2C000$P2B000$P3Q000$P2D000",
+        "explicit": "FCN$P3Q000$P4C000$P2D000",
+        "generators": "FCN$P2C000$P2B000$P3Q000$P2D000",
         "itc_group": true
     },
     {
@@ -2304,8 +2304,8 @@
         "full_hermann_mauguin": "F 41 3 2",
         "hall": "f 4d 2 3",
         "crystal_class": "432",
-        "symmetry_explicit": "FCN$P3Q000$P4C993$P2D939",
-        "symmetry_generators": "FCN$P2C066$P2B660$P3Q000$P2D939",
+        "explicit": "FCN$P3Q000$P4C993$P2D939",
+        "generators": "FCN$P2C066$P2B660$P3Q000$P2D939",
         "itc_group": true
     },
     {
@@ -2315,8 +2315,8 @@
         "full_hermann_mauguin": "I 4 3 2",
         "hall": "i 4 2 3",
         "crystal_class": "432",
-        "symmetry_explicit": "ICN$P3Q000$P4C000$P2D000",
-        "symmetry_generators": "ICN$P2C000$P2B000$P3Q000$P2D000",
+        "explicit": "ICN$P3Q000$P4C000$P2D000",
+        "generators": "ICN$P2C000$P2B000$P3Q000$P2D000",
         "itc_group": true
     },
     {
@@ -2326,8 +2326,8 @@
         "full_hermann_mauguin": "P 43 3 2",
         "hall": "p 4acd 2ab 3",
         "crystal_class": "432",
-        "symmetry_explicit": "PCN$P3Q000$P4C939$P2D399",
-        "symmetry_generators": "PCN$P2C606$P2B066$P3Q000$P2D399",
+        "explicit": "PCN$P3Q000$P4C939$P2D399",
+        "generators": "PCN$P2C606$P2B066$P3Q000$P2D399",
         "itc_group": true
     },
     {
@@ -2337,8 +2337,8 @@
         "full_hermann_mauguin": "P 41 3 2",
         "hall": "p 4bd 2ab 3",
         "crystal_class": "432",
-        "symmetry_explicit": "PCN$P3Q000$P4C393$P2D933",
-        "symmetry_generators": "PCN$P2C606$P2B066$P3Q000$P2D933",
+        "explicit": "PCN$P3Q000$P4C393$P2D933",
+        "generators": "PCN$P2C606$P2B066$P3Q000$P2D933",
         "itc_group": true
     },
     {
@@ -2348,8 +2348,8 @@
         "full_hermann_mauguin": "I 41 3 2",
         "hall": "i 4bd 2c 3",
         "crystal_class": "432",
-        "symmetry_explicit": "ICN$P3Q000$P4C393$P2D933",
-        "symmetry_generators": "ICN$P2C606$P2B066$P3Q000$P2D933",
+        "explicit": "ICN$P3Q000$P4C393$P2D933",
+        "generators": "ICN$P2C606$P2B066$P3Q000$P2D933",
         "itc_group": true
     },
     {
@@ -2359,8 +2359,8 @@
         "full_hermann_mauguin": "P -4 3 m",
         "hall": "p -4 2 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "PCN$P3Q000$I4C000$I2D000",
-        "symmetry_generators": "PCN$P2C000$P2B000$P3Q000$I2E000",
+        "explicit": "PCN$P3Q000$I4C000$I2D000",
+        "generators": "PCN$P2C000$P2B000$P3Q000$I2E000",
         "itc_group": true
     },
     {
@@ -2370,8 +2370,8 @@
         "full_hermann_mauguin": "F -4 3 m",
         "hall": "f -4 2 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "FCN$P3Q000$I4C000$I2D000",
-        "symmetry_generators": "FCN$P2C000$P2B000$P3Q000$I2E000",
+        "explicit": "FCN$P3Q000$I4C000$I2D000",
+        "generators": "FCN$P2C000$P2B000$P3Q000$I2E000",
         "itc_group": true
     },
     {
@@ -2381,8 +2381,8 @@
         "full_hermann_mauguin": "I -4 3 m",
         "hall": "i -4 2 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "ICN$P3Q000$I4C000$I2D000",
-        "symmetry_generators": "ICN$P2C000$P2B000$P3Q000$I2E000",
+        "explicit": "ICN$P3Q000$I4C000$I2D000",
+        "generators": "ICN$P2C000$P2B000$P3Q000$I2E000",
         "itc_group": true
     },
     {
@@ -2392,8 +2392,8 @@
         "full_hermann_mauguin": "P -4 3 n",
         "hall": "p -4n 2 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "PCN$P3Q000$I4C666$I2D666",
-        "symmetry_generators": "PCN$P2C000$P2B000$P3Q000$I2E666",
+        "explicit": "PCN$P3Q000$I4C666$I2D666",
+        "generators": "PCN$P2C000$P2B000$P3Q000$I2E666",
         "itc_group": true
     },
     {
@@ -2403,8 +2403,8 @@
         "full_hermann_mauguin": "F -4 3 c",
         "hall": "f -4a 2 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "FCN$P3Q000$I4C666$I2D666",
-        "symmetry_generators": "FCN$P2C000$P2B000$P3Q000$I2E666",
+        "explicit": "FCN$P3Q000$I4C666$I2D666",
+        "generators": "FCN$P2C000$P2B000$P3Q000$I2E666",
         "itc_group": true
     },
     {
@@ -2414,8 +2414,8 @@
         "full_hermann_mauguin": "I -4 3 d",
         "hall": "i -4bd 2c 3",
         "crystal_class": "-43m",
-        "symmetry_explicit": "ICN$P3Q000$I4C939$I2D399",
-        "symmetry_generators": "ICN$P2C606$P2B066$P3Q000$I2E333",
+        "explicit": "ICN$P3Q000$I4C939$I2D399",
+        "generators": "ICN$P2C606$P2B066$P3Q000$I2E333",
         "itc_group": true
     },
     {
@@ -2425,8 +2425,8 @@
         "full_hermann_mauguin": "P 4/m -3 2/m",
         "hall": "-p 4 2 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "PCC$I3Q000$P4C000$P2D000",
-        "symmetry_generators": "PCC$P2C000$P2B000$P3Q000$P2D000$I1A000",
+        "explicit": "PCC$I3Q000$P4C000$P2D000",
+        "generators": "PCC$P2C000$P2B000$P3Q000$P2D000$I1A000",
         "itc_group": true
     },
     {
@@ -2436,8 +2436,8 @@
         "full_hermann_mauguin": "P 4/n -3 2/n",
         "hall": "-p 4a 2bc 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "PCC$I3Q000$P4C600$P2D006",
-        "symmetry_generators": "PCC$P2C660$P2B606$P3Q000$P2D006$I1A000",
+        "explicit": "PCC$I3Q000$P4C600$P2D006",
+        "generators": "PCC$P2C660$P2B606$P3Q000$P2D006$I1A000",
         "itc_group": true
     },
     {
@@ -2447,8 +2447,8 @@
         "full_hermann_mauguin": "P 42/m -3 2/n",
         "hall": "-p 4n 2 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "PCC$I3Q000$P4C666$P2D666",
-        "symmetry_generators": "PCC$P2C000$P2B000$P3Q000$P2D666$I1A000",
+        "explicit": "PCC$I3Q000$P4C666$P2D666",
+        "generators": "PCC$P2C000$P2B000$P3Q000$P2D666$I1A000",
         "itc_group": true
     },
     {
@@ -2458,8 +2458,8 @@
         "full_hermann_mauguin": "P 42/n -3 2/m",
         "hall": "-p 4bc 2bc 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "PCC$I3Q000$P4C066$P2D660",
-        "symmetry_generators": "PCC$P2C660$P2B606$P3Q000$P2D660$I1A000",
+        "explicit": "PCC$I3Q000$P4C066$P2D660",
+        "generators": "PCC$P2C660$P2B606$P3Q000$P2D660$I1A000",
         "itc_group": true
     },
     {
@@ -2469,8 +2469,8 @@
         "full_hermann_mauguin": "F 4/m -3 2/m",
         "hall": "-f 4 2 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "FCC$I3Q000$P4C000$P2D000",
-        "symmetry_generators": "FCC$P2C000$P2B000$P3Q000$P2D000$I1A000",
+        "explicit": "FCC$I3Q000$P4C000$P2D000",
+        "generators": "FCC$P2C000$P2B000$P3Q000$P2D000$I1A000",
         "itc_group": true
     },
     {
@@ -2480,8 +2480,8 @@
         "full_hermann_mauguin": "F 4/m -3 2/c",
         "hall": "-f 4a 2 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "FCC$I3Q000$P4C666$P2D666",
-        "symmetry_generators": "FCC$P2C000$P2B000$P3Q000$P2D666$I1A000",
+        "explicit": "FCC$I3Q000$P4C666$P2D666",
+        "generators": "FCC$P2C000$P2B000$P3Q000$P2D666$I1A000",
         "itc_group": true
     },
     {
@@ -2491,8 +2491,8 @@
         "full_hermann_mauguin": "F 41/d -3 2/m",
         "hall": "-f 4vw 2vw 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "FCC$I3Q000$P4C693$P2D936",
-        "symmetry_generators": "FCC$P2C936$P2B369$P3Q000$P2D936$I1A000",
+        "explicit": "FCC$I3Q000$P4C693$P2D936",
+        "generators": "FCC$P2C936$P2B369$P3Q000$P2D936$I1A000",
         "itc_group": true
     },
     {
@@ -2502,8 +2502,8 @@
         "full_hermann_mauguin": "F 41/d -3 2/c",
         "hall": "-f 4ud 2vw 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "FCC$I3Q000$P4C093$P2D930",
-        "symmetry_generators": "FCC$P2C396$P2B963$P3Q000$P2D930$I1A000",
+        "explicit": "FCC$I3Q000$P4C093$P2D930",
+        "generators": "FCC$P2C396$P2B963$P3Q000$P2D930$I1A000",
         "itc_group": true
     },
     {
@@ -2513,8 +2513,8 @@
         "full_hermann_mauguin": "I 4/m -3 2/m",
         "hall": "-i 4 2 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "ICC$I3Q000$P4C000$P2D000",
-        "symmetry_generators": "ICC$P2C000$P2B000$P3Q000$P2D000$I1A000",
+        "explicit": "ICC$I3Q000$P4C000$P2D000",
+        "generators": "ICC$P2C000$P2B000$P3Q000$P2D000$I1A000",
         "itc_group": true
     },
     {
@@ -2524,8 +2524,8 @@
         "full_hermann_mauguin": "I 41/a -3 2/d",
         "hall": "-i 4bd 2c 3",
         "crystal_class": "m-3m",
-        "symmetry_explicit": "ICC$I3Q000$P4C393$P2D933",
-        "symmetry_generators": "ICC$P2C606$P2B066$P3Q000$P2D933$I1A000",
+        "explicit": "ICC$I3Q000$P4C393$P2D933",
+        "generators": "ICC$P2C606$P2B066$P3Q000$P2D933$I1A000",
         "itc_group": true
     }
 ]
