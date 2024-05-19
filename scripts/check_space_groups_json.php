@@ -23,6 +23,28 @@ if ($spacegroups === null) {
 
 foreach ($spacegroups as $s) {
     echo 'Checking space group ' . $s['number'] . '... ' . PHP_EOL;
+    echo 'Checking the crystal system: ' . $s['crystal_system'] . '... ';
+    if ($s['number'] < 3) {
+        $system = 'triclinic';
+    } elseif ($s['number'] < 16) {
+        $system = 'monoclinic';
+    } elseif ($s['number'] < 75) {
+        $system = 'orthorhombic';
+    } elseif ($s['number'] < 143) {
+        $system = 'tetragonal';
+    } elseif ($s['number'] < 168) {
+        $system = 'trigonal';
+    } elseif ($s['number'] < 195) {
+        $system = 'hexagonal';
+    } else {
+        $system = 'cubic';
+    }
+    if ($s['crystal_system'] !== $system) {
+        echo 'Error: The crystal system does not match.' . PHP_EOL;
+        exit(1);
+    }
+    echo 'done.' . PHP_EOL;
+
     echo 'Generating the space group from the Hall symbol: ' . $s['hall'] . '... ';
     $sHall = SpaceGroup::makeFromHallSymbol($s['hall'])->expandGroup();
     echo 'done.' . PHP_EOL;
