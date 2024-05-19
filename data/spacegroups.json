@@ -12,6 +12,66 @@
         "itc_group": true
     },
     {
+        "number": 1,
+        "slug": "a1",
+        "hermann_mauguin": "A 1",
+        "full_hermann_mauguin": "A 1",
+        "hall": "a 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "1",
+        "explicit": "AAN$P1A000",
+        "generators": "AAN$P1A000",
+        "itc_group": false
+    },
+    {
+        "number": 1,
+        "slug": "b1",
+        "hermann_mauguin": "B 1",
+        "full_hermann_mauguin": "B 1",
+        "hall": "b 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "1",
+        "explicit": "BAN$P1A000",
+        "generators": "BAN$P1A000",
+        "itc_group": false
+    },
+    {
+        "number": 1,
+        "slug": "c1",
+        "hermann_mauguin": "C 1",
+        "full_hermann_mauguin": "C 1",
+        "hall": "c 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "1",
+        "explicit": "CAN$P1A000",
+        "generators": "CAN$P1A000",
+        "itc_group": false
+    },
+    {
+        "number": 1,
+        "slug": "f1",
+        "hermann_mauguin": "F 1",
+        "full_hermann_mauguin": "F 1",
+        "hall": "f 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "1",
+        "explicit": "FAN$P1A000",
+        "generators": "FAN$P1A000",
+        "itc_group": false
+    },
+    {
+        "number": 1,
+        "slug": "i1",
+        "hermann_mauguin": "i 1",
+        "full_hermann_mauguin": "I 1",
+        "hall": "i 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "1",
+        "explicit": "IAN$P1A000",
+        "generators": "IAN$P1A000",
+        "itc_group": false
+    },
+    {
         "number": 2,
         "slug": "p-1",
         "hermann_mauguin": "P -1",
@@ -22,6 +82,66 @@
         "explicit": "PAC$I1A000",
         "generators": "PAC$I1A000",
         "itc_group": true
+    },
+    {
+        "number": 2,
+        "slug": "a-1",
+        "hermann_mauguin": "A -1",
+        "full_hermann_mauguin": "A -1",
+        "hall": "-a 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "-1",
+        "explicit": "AAC$I1A000",
+        "generators": "AAC$I1A000",
+        "itc_group": false
+    },
+    {
+        "number": 2,
+        "slug": "b-1",
+        "hermann_mauguin": "B -1",
+        "full_hermann_mauguin": "B -1",
+        "hall": "-b 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "-1",
+        "explicit": "BAC$I1A000",
+        "generators": "BAC$I1A000",
+        "itc_group": false
+    },
+    {
+        "number": 2,
+        "slug": "c-1",
+        "hermann_mauguin": "C -1",
+        "full_hermann_mauguin": "C -1",
+        "hall": "-c 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "-1",
+        "explicit": "CAC$I1A000",
+        "generators": "CAC$I1A000",
+        "itc_group": false
+    },
+    {
+        "number": 2,
+        "slug": "f-1",
+        "hermann_mauguin": "F -1",
+        "full_hermann_mauguin": "F -1",
+        "hall": "-f 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "-1",
+        "explicit": "FAC$I1A000",
+        "generators": "FAC$I1A000",
+        "itc_group": false
+    },
+    {
+        "number": 2,
+        "slug": "i-1",
+        "hermann_mauguin": "I -1",
+        "full_hermann_mauguin": "I -1",
+        "hall": "-i 1",
+        "crystal_system": "triclinic",
+        "crystal_class": "-1",
+        "explicit": "IAC$I1A000",
+        "generators": "IAC$I1A000",
+        "itc_group": false
     },
     {
         "number": 3,
