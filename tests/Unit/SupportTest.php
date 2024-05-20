@@ -118,4 +118,13 @@ class SupportTest extends TestCase
             ],
         ];
     }
+
+    public function testGetJSONSpaceGroupData(): void
+    {
+        $spacegroups = Support::getJSONSpaceGroupData();
+        $this->assertIsArray($spacegroups);
+        $p1 = $spacegroups[0];
+        $this->assertEquals(1, $p1['number']);
+        $this->assertEquals('P 1', $p1['hermann_mauguin']);
+    }
 }

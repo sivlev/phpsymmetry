@@ -16,6 +16,7 @@ declare(strict_types=1);
 namespace PHPSymmetry;
 
 use PHPMathObjects\Math\Math;
+use PHPSymmetry\Exception\RuntimeException;
 use PHPSymmetry\SymmetryOperation\AbstractSymmetryOperation;
 
 /**
@@ -93,5 +94,26 @@ class Support
             }
         }
         return false;
+    }
+
+    /**
+     * Get the space group data from the spacegroups.json file.
+     *
+     * @return array<string, array<string, string>>
+     * @throws RuntimeException if the spacegroups.json file cannot be read or decoded.
+     */
+    public static function getJSONSpaceGroupData(): array
+    {
+        $f = file_get_contents(__DIR__ . '/../data/spacegroups.json');
+        if ($f === false) {
+            throw new RuntimeException('Cannot read the spacegroups.json file.');
+        }
+
+        $spacegroups = json_decode($f, true);
+        if ($spacegroups === null) {
+            throw new RuntimeException('Cannot decode the spacegroups.json file.');
+        }
+
+        return $spacegroups;
     }
 }
