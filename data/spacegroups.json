@@ -1964,7 +1964,8 @@
         "crystal_system": "trigonal",
         "crystal_class": "321",
         "explicit": "PRN$P3C008$P2F004",
-        "generators": "PRN$P3C008$P2I000"
+        "generators": "PRN$P3C008$P2I000",
+        "itc_group": true
     },
     {
         "number": 155,

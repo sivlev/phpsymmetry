@@ -24,6 +24,18 @@ if ($spacegroups === null) {
 foreach ($spacegroups as $s) {
     echo 'Checking space group ' . $s['number'] . '... ' . PHP_EOL;
     echo 'Checking the crystal system: ' . $s['crystal_system'] . '... ';
+    echo 'Checking presence of itc_group... ';
+    if (array_key_exists('itc_group', $s)) {
+        if (!is_bool($s['itc_group'])) {
+            echo 'Error: The itc_group is not a boolean.' . PHP_EOL;
+            exit(1);
+        }
+    } else {
+        echo 'Error: The itc_group is missing.' . PHP_EOL;
+        exit(1);
+    }
+    echo 'done.' . PHP_EOL;
+
     if ($s['number'] < 3) {
         $system = 'triclinic';
     } elseif ($s['number'] < 16) {
