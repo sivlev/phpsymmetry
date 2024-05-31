@@ -153,7 +153,34 @@
         "crystal_class": "2",
         "explicit": "PMN$P2B000",
         "generators": "PMN$P2B000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b"
+    },
+    {
+        "number": 3,
+        "slug": "p112",
+        "hermann_mauguin": "P 2",
+        "full_hermann_mauguin": "P 1 1 2",
+        "hall": "p 2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "PMN$P2C000",
+        "generators": "PMN$P2C000",
+        "itc_group": false,
+        "unique_axis": "c"
+    },
+    {
+        "number": 3,
+        "slug": "p211",
+        "hermann_mauguin": "P 2",
+        "full_hermann_mauguin": "P 2 1 1",
+        "hall": "p 2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "PMN$P2A000",
+        "generators": "PMN$P2A000",
+        "itc_group": false,
+        "unique_axis": "a"
     },
     {
         "number": 4,
@@ -165,7 +192,34 @@
         "crystal_class": "2",
         "explicit": "PMN$P2B060",
         "generators": "PMN$P2B060",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b"
+    },
+    {
+        "number": 4,
+        "slug": "p1121",
+        "hermann_mauguin": "P 21",
+        "full_hermann_mauguin": "P 1 1 21",
+        "hall": "p 2c",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "PMN$P2C006",
+        "generators": "PMN$P2C006",
+        "itc_group": false,
+        "unique_axis": "c"
+    },
+    {
+        "number": 4,
+        "slug": "p2111",
+        "hermann_mauguin": "P 21",
+        "full_hermann_mauguin": "P 21 1 1",
+        "hall": "p 2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "PMN$P2A600",
+        "generators": "PMN$P2A600",
+        "itc_group": false,
+        "unique_axis": "a"
     },
     {
         "number": 5,
@@ -177,7 +231,37 @@
         "crystal_class": "2",
         "explicit": "CMN$P2B000",
         "generators": "CMN$P2B000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 5,
+        "slug": "a112",
+        "hermann_mauguin": "A 2",
+        "full_hermann_mauguin": "A 1 1 2",
+        "hall": "a 2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "AMN$P2C000",
+        "generators": "AMN$P2C000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 5,
+        "slug": "b211",
+        "hermann_mauguin": "B 2",
+        "full_hermann_mauguin": "B 2 1 1",
+        "hall": "b 2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2",
+        "explicit": "BMN$P2A000",
+        "generators": "BMN$P2A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 6,
@@ -189,7 +273,34 @@
         "crystal_class": "m",
         "explicit": "PMN$I2B000",
         "generators": "PMN$I2B000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b"
+    },
+    {
+        "number": 6,
+        "slug": "p11m",
+        "hermann_mauguin": "P m",
+        "full_hermann_mauguin": "P 1 1 m",
+        "hall": "p -2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "PMN$I2C000",
+        "generators": "PMN$I2C000",
+        "itc_group": false,
+        "unique_axis": "c"
+    },
+    {
+        "number": 6,
+        "slug": "pm11",
+        "hermann_mauguin": "P m",
+        "full_hermann_mauguin": "P m 1 1",
+        "hall": "p -2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "PMN$I2A000",
+        "generators": "PMN$I2A000",
+        "itc_group": false,
+        "unique_axis": "a"
     },
     {
         "number": 7,
@@ -201,7 +312,37 @@
         "crystal_class": "m",
         "explicit": "PMN$I2B006",
         "generators": "PMN$I2B006",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 7,
+        "slug": "p11a",
+        "hermann_mauguin": "P a",
+        "full_hermann_mauguin": "P 1 1 a",
+        "hall": "p -2a",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "PMN$I2C600",
+        "generators": "PMN$I2C600",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 7,
+        "slug": "pb11",
+        "hermann_mauguin": "P b",
+        "full_hermann_mauguin": "P b 1 1",
+        "hall": "p -2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "PMN$I2A600",
+        "generators": "PMN$I2A600",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 8,
@@ -213,7 +354,37 @@
         "crystal_class": "m",
         "explicit": "CMN$I2B000",
         "generators": "CMN$I2B000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 8,
+        "slug": "a11m",
+        "hermann_mauguin": "A m",
+        "full_hermann_mauguin": "A 1 1 m",
+        "hall": "a -2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "AMN$I2C000",
+        "generators": "AMN$I2C000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 8,
+        "slug": "bm11",
+        "hermann_mauguin": "B m",
+        "full_hermann_mauguin": "B m 1 1",
+        "hall": "b -2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "BMN$I2A000",
+        "generators": "BMN$I2A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 9,
@@ -225,7 +396,37 @@
         "crystal_class": "m",
         "explicit": "CMN$I2B006",
         "generators": "CMN$I2B006",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 9,
+        "slug": "a11a",
+        "hermann_mauguin": "A a",
+        "full_hermann_mauguin": "A 1 1 a",
+        "hall": "a -2a",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "AMN$I2C600",
+        "generators": "AMN$I2C600",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 9,
+        "slug": "bb11",
+        "hermann_mauguin": "B b",
+        "full_hermann_mauguin": "B b 1 1",
+        "hall": "b -2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "m",
+        "explicit": "BMN$I2A600",
+        "generators": "BMN$I2A600",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 10,
@@ -237,7 +438,34 @@
         "crystal_class": "2\/m",
         "explicit": "PMC$I1A000$P2B000",
         "generators": "PMC$P2B000$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b"
+    },
+    {
+        "number": 10,
+        "slug": "p112m",
+        "hermann_mauguin": "P 2\/m",
+        "full_hermann_mauguin": "P 1 1 2\/m",
+        "hall": "-p 2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2C000",
+        "generators": "PMC$P2C000$I1A000",
+        "itc_group": false,
+        "unique_axis": "c"
+    },
+    {
+        "number": 10,
+        "slug": "p2m11",
+        "hermann_mauguin": "P 2\/m",
+        "full_hermann_mauguin": "P 2\/m 1 1",
+        "hall": "-p 2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2A000",
+        "generators": "PMC$P2A000$I1A000",
+        "itc_group": false,
+        "unique_axis": "a"
     },
     {
         "number": 11,
@@ -249,7 +477,34 @@
         "crystal_class": "2\/m",
         "explicit": "PMC$I1A000$P2B060",
         "generators": "PMC$P2B060$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b"
+    },
+    {
+        "number": 11,
+        "slug": "p1121m",
+        "hermann_mauguin": "P 21\/m",
+        "full_hermann_mauguin": "P 1 1 21\/m",
+        "hall": "-p 2c",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2C006",
+        "generators": "PMC$P2C006$I1A000",
+        "itc_group": false,
+        "unique_axis": "c"
+    },
+    {
+        "number": 11,
+        "slug": "p21m11",
+        "hermann_mauguin": "P 21\/m",
+        "full_hermann_mauguin": "P 21\/m 1 1",
+        "hall": "-p 2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2A600",
+        "generators": "PMC$P2A600$I1A000",
+        "itc_group": false,
+        "unique_axis": "a"
     },
     {
         "number": 12,
@@ -261,7 +516,37 @@
         "crystal_class": "2\/m",
         "explicit": "CMC$I1A000$P2B000",
         "generators": "CMC$P2B000$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 12,
+        "slug": "a112m",
+        "hermann_mauguin": "A 2\/m",
+        "full_hermann_mauguin": "A 1 1 2\/m",
+        "hall": "-a 2",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "AMC$I1A000$P2C000",
+        "generators": "AMC$P2C000$I1A000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 12,
+        "slug": "b2m11",
+        "hermann_mauguin": "B 2\/m",
+        "full_hermann_mauguin": "B 2\/m 1 1",
+        "hall": "-b 2x",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "BMC$I1A000$P2A000",
+        "generators": "BMC$P2A000$I1A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 13,
@@ -273,7 +558,37 @@
         "crystal_class": "2\/m",
         "explicit": "PMC$I1A000$P2B006",
         "generators": "PMC$P2B006$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 13,
+        "slug": "p112a",
+        "hermann_mauguin": "P 2\/a",
+        "full_hermann_mauguin": "P 1 1 2\/a",
+        "hall": "-p 2a",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2C600",
+        "generators": "PMC$P2C600$I1A000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 13,
+        "slug": "p2b11",
+        "hermann_mauguin": "P 2\/b",
+        "full_hermann_mauguin": "P 2\/b 1 1",
+        "hall": "-p 2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2A600",
+        "generators": "PMC$P2A600$I1A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 14,
@@ -285,7 +600,37 @@
         "crystal_class": "2\/m",
         "explicit": "PMC$I1A000$P2B066",
         "generators": "PMC$P2B066$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 14,
+        "slug": "p1121a",
+        "hermann_mauguin": "P 21\/a",
+        "full_hermann_mauguin": "P 1 1 21\/a",
+        "hall": "-p 2ac",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2C606",
+        "generators": "PMC$P2C606$I1A000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 14,
+        "slug": "p21b11",
+        "hermann_mauguin": "P 21\/b",
+        "full_hermann_mauguin": "P 21\/b 1 1",
+        "hall": "-p 2xab",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "PMC$I1A000$P2A660",
+        "generators": "PMC$P2A660$I1A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 15,
@@ -297,7 +642,37 @@
         "crystal_class": "2\/m",
         "explicit": "CMC$I1A000$P2B006",
         "generators": "CMC$P2B006$I1A000",
-        "itc_group": true
+        "itc_group": true,
+        "unique_axis": "b",
+        "cell_choice": 1
+    },
+    {
+        "number": 15,
+        "slug": "a112a",
+        "hermann_mauguin": "A 2\/a",
+        "full_hermann_mauguin": "A 1 1 2\/a",
+        "hall": "-a 2a",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "AMC$I1A000$P2C600",
+        "generators": "AMC$P2C600$I1A000",
+        "itc_group": false,
+        "unique_axis": "c",
+        "cell_choice": 1
+    },
+    {
+        "number": 15,
+        "slug": "b2b11",
+        "hermann_mauguin": "B 2\/b",
+        "full_hermann_mauguin": "B 2\/b 1 1",
+        "hall": "-b 2xa",
+        "crystal_system": "monoclinic",
+        "crystal_class": "2\/m",
+        "explicit": "BMC$I1A000$P2A600",
+        "generators": "BMC$P2A600$I1A000",
+        "itc_group": false,
+        "unique_axis": "a",
+        "cell_choice": 1
     },
     {
         "number": 16,

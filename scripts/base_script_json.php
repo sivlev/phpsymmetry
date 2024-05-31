@@ -33,7 +33,7 @@ if ($spacegroups === null) {
     exit(1);
 }
 
-foreach ($spacegroups as $index => $spacegroup) {
+foreach ($spacegroups as $index => &$spacegroup) {
 
 }
 
